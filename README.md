@@ -112,9 +112,9 @@ A list of recent papers (from 2017) about point cloud analysis.  For updating, p
 - [[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)]
 - [[CVPR](https://arxiv.org/abs/1904.00699v1)] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. [[pytorch](https://github.com/pqhieu/JSIS3D)]
 - [[CVPR](https://arxiv.org/abs/1904.02113)] Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning. 
-
+-
 - [[ICRA](https://arxiv.org/abs/1904.00319)] Discrete Rotation Equivariance for Point Cloud Recognition. [[pytorch](https://github.com/lijx10/rot-equ-net)]
-
+-
 - [[arXiv](https://arxiv.org/abs/1901.02532)] Fast 3D Line Segment Detection From Unorganized Point Cloud. 
 - [[arXiv](https://arxiv.org/abs/1812.01687)] Point-Cloud Saliency Maps. [[tensorflow](https://github.com/tianzheng4/PointCloud-Saliency-Maps)]
 - [[arXiv](https://export.arxiv.org/abs/1901.03006)] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. [[code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)]
