@@ -86,7 +86,6 @@ A list of recent papers (from 2017) about point cloud analysis.  For updating, p
 - [[arXiv](https://arxiv.org/abs/1812.03320)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. 
 - [[arXiv](https://arxiv.org/abs/1812.04302)] Deep RBFNet: Point Cloud Feature Learning using Radial Basis Functions. 
 - [[arXiv](https://arxiv.org/abs/1812.05276)] IPOD: Intensive Point-based Object Detector for Point Cloud. 
-- [[arXiv](https://arxiv.org/abs/1812.05784)] PointPillars: Fast Encoders for Object Detection from Point Clouds. [[pytorch](https://github.com/nutonomy/second.pytorch)]
 - [[arXiv](https://arxiv.org/abs/1812.07050)] 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition. 
 - [[arXiv](https://arxiv.org/abs/1812.11017)] Deflecting 3D Adversarial Point Clouds Through Outlier-Guided Removal. 
 - [[arXiv](https://arxiv.org/abs/1812.11383)] Feature Preserving and Uniformity-controllable Point Cloud Simplification on Graph. 
@@ -112,6 +111,9 @@ A list of recent papers (from 2017) about point cloud analysis.  For updating, p
 - [[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)]
 - [[CVPR](https://arxiv.org/abs/1904.00699v1)] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. [[pytorch](https://github.com/pqhieu/JSIS3D)]
 - [[CVPR](https://arxiv.org/abs/1904.02113)] Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning. 
+- [[CVPR](https://arxiv.org/abs/1812.05784)] PointPillars: Fast Encoders for Object Detection from Point Clouds. [[pytorch](https://github.com/nutonomy/second.pytorch)]
+- [[CVPR](https://arxiv.org/abs/1811.11286)] Patch-based Progressive 3D Point Set Upsampling. [[tensorflow](https://github.com/yifita/3PU)]
+- [[CVPR](https://arxiv.org/abs/1904.09793)] PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval. [[code](https://github.com/XLechter/PCAN)]
 -
 - [[ICRA](https://arxiv.org/abs/1904.00319)] Discrete Rotation Equivariance for Point Cloud Recognition. [[pytorch](https://github.com/lijx10/rot-equ-net)]
 -
