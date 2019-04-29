@@ -85,61 +85,61 @@ __`oth.`__: other, including normal-related, correspondence, matching, alignment
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)] Frustum PointNets for 3D Object Detection from RGB-D Data. [[tensorflow](https://github.com/charlesq34/frustum-pointnets)] [__`det.`__ __`aut.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tatarchenko_Tangent_Convolutions_for_CVPR_2018_paper.pdf)] Tangent Convolutions for Dense Prediction in 3D. [[tensorflow](https://github.com/tatarchm/tangent_conv)] [__`seg.`__ __`aut.`__]
 - 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matheus_Gadelha_Multiresolution_Tree_Networks_ECCV_2018_paper.pdf)] Multiresolution Tree Networks for 3D Point Cloud Processing. [[pytorch](https://github.com/matheusgadelha/MRTNet)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)] EC-Net: an Edge-aware Point set Consolidation Network. [[tensorflow](https://github.com/yulequan/EC-Net)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoqing_Ye_3D_Recurrent_Neural_ECCV_2018_paper.pdf)] 3D Recurrent Neural Networks with Context Fusion for Point Cloud Semantic Segmentation. 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)] Learning and Matching Multi-View Descriptors for Registration of Point Clouds. 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [[tensorflow](https://github.com/yewzijian/3DFeatNet)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chu_Wang_Local_Spectral_Graph_ECCV_2018_paper.pdf)] Local Spectral Graph Convolution for Point Set Feature Learning. [[tensorflow](https://github.com/fate3439/LocalSpecGCN)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Xu_SpiderCNN_Deep_Learning_ECCV_2018_paper.pdf)] SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters. [[tensorflow](https://github.com/xyf513/SpiderCNN)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)] Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search. 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kejie_Li_Efficient_Dense_Point_ECCV_2018_paper.pdf)] Efficient Dense Point Cloud Object Reconstruction using Deformation Vector Fields. 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dario_Rethage_Fully-Convolutional_Point_Networks_ECCV_2018_paper.pdf)] Fully-Convolutional Point Networks for Large-Scale Point Clouds. [[tensorflow](https://github.com/drethage/fully-convolutional-point-network)]
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)] Deep Continuous Fusion for Multi-Sensor 3D Object Detection. 
-- [[ECCV]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf)] HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matheus_Gadelha_Multiresolution_Tree_Networks_ECCV_2018_paper.pdf)] Multiresolution Tree Networks for 3D Point Cloud Processing. [[pytorch](https://github.com/matheusgadelha/MRTNet)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)] EC-Net: an Edge-aware Point set Consolidation Network. [[tensorflow](https://github.com/yulequan/EC-Net)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoqing_Ye_3D_Recurrent_Neural_ECCV_2018_paper.pdf)] 3D Recurrent Neural Networks with Context Fusion for Point Cloud Semantic Segmentation. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)] Learning and Matching Multi-View Descriptors for Registration of Point Clouds. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [[tensorflow](https://github.com/yewzijian/3DFeatNet)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chu_Wang_Local_Spectral_Graph_ECCV_2018_paper.pdf)] Local Spectral Graph Convolution for Point Set Feature Learning. [[tensorflow](https://github.com/fate3439/LocalSpecGCN)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Xu_SpiderCNN_Deep_Learning_ECCV_2018_paper.pdf)] SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters. [[tensorflow](https://github.com/xyf513/SpiderCNN)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)] Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kejie_Li_Efficient_Dense_Point_ECCV_2018_paper.pdf)] Efficient Dense Point Cloud Object Reconstruction using Deformation Vector Fields. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dario_Rethage_Fully-Convolutional_Point_Networks_ECCV_2018_paper.pdf)] Fully-Convolutional Point Networks for Large-Scale Point Clouds. [[tensorflow](https://github.com/drethage/fully-convolutional-point-network)]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)] Deep Continuous Fusion for Multi-Sensor 3D Object Detection. 
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf)] HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. 
 - 
-- [[AAAI]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16530/16302)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)]
+- [[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16530/16302)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)]
 - 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462884)] End-to-end Learning of Multi-sensor 3D Tracking by Detection. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460837)] Multi-View 3D Entangled Forest for Semantic Segmentation and Mapping. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462926)] SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud. [[tensorflow](https://github.com/priyankanagaraj1494/Squeezseg)]
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461257)] Robust Real-Time 3D Person Detection for Indoor and Outdoor Applications. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461048)] High-Precision Depth Estimation with the 3D LiDAR and Stereo Fusion. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461095)] Sampled-Point Network for Classification of Deformed Building Element Point Clouds. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460532)] Gemsketch: Interactive Image-Guided Geometry Extraction from Point Clouds. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460605)] Signature of Topologically Persistent Points for 3D Point Cloud Description. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461232)] A General Pipeline for 3D Detection of Vehicles. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460716)] Robust and Fast 3D Scan Alignment Using Mutual Information. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460940)] Delight: An Efficient Descriptor for Global Localisation Using LiDAR Intensities. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460862)] Surface-Based Exploration for Autonomous 3D Modeling. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460554)] Deep Lidar CNN to Understand the Dynamics of Moving Vehicles. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460887)] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460639)] Real-Time Object Tracking in Sparse Point Clouds Based on 3D Interpolation. 
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460825)] Robust Generalized Point Cloud Registration Using Hybrid Mixture Model.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461049)] A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461000)] Efficient Continuous-Time SLAM for 3D Lidar-Based Online Mapping.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461102)] Direct Visual SLAM Using Sparse Depth for Camera-LiDAR System.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460910)] Spatiotemporal Learning of Dynamic Gestures from 3D Point Cloud Data.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460204)] Asynchronous Multi-Sensor Fusion for 3D Mapping and Localization.
-- [[ICRA]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460834)] Complex Urban LiDAR Data Set.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462884)] End-to-end Learning of Multi-sensor 3D Tracking by Detection. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460837)] Multi-View 3D Entangled Forest for Semantic Segmentation and Mapping. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462926)] SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud. [[tensorflow](https://github.com/priyankanagaraj1494/Squeezseg)]
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461257)] Robust Real-Time 3D Person Detection for Indoor and Outdoor Applications. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461048)] High-Precision Depth Estimation with the 3D LiDAR and Stereo Fusion. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461095)] Sampled-Point Network for Classification of Deformed Building Element Point Clouds. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460532)] Gemsketch: Interactive Image-Guided Geometry Extraction from Point Clouds. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460605)] Signature of Topologically Persistent Points for 3D Point Cloud Description. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461232)] A General Pipeline for 3D Detection of Vehicles. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460716)] Robust and Fast 3D Scan Alignment Using Mutual Information. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460940)] Delight: An Efficient Descriptor for Global Localisation Using LiDAR Intensities. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460862)] Surface-Based Exploration for Autonomous 3D Modeling. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460554)] Deep Lidar CNN to Understand the Dynamics of Moving Vehicles. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460887)] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460639)] Real-Time Object Tracking in Sparse Point Clouds Based on 3D Interpolation. 
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460825)] Robust Generalized Point Cloud Registration Using Hybrid Mixture Model.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461049)] A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461000)] Efficient Continuous-Time SLAM for 3D Lidar-Based Online Mapping.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461102)] Direct Visual SLAM Using Sparse Depth for Camera-LiDAR System.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460910)] Spatiotemporal Learning of Dynamic Gestures from 3D Point Cloud Data.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460204)] Asynchronous Multi-Sensor Fusion for 3D Mapping and Localization.
+- [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460834)] Complex Urban LiDAR Data Set.
 - 
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593693)] CalibNet: Geometrically Supervised Extrinsic Calibration using 3D Spatial Transformer Networks.[[tensorflow](https://github.com/epiception/CalibNet)]
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593839)] Dynamic Scaling Factors of Covariances for Accurate 3D Normal Distributions Transform Registration.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593733)] A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593558)] Robust Generalized Point Cloud Registration with Expectation Maximization Considering Anisotropic Positional Uncertainties.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594024)] Octree map based on sparse point cloud and heuristic probability distribution for labeled images.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593854)] PoseMap: Lifelong, Multi-Environment 3D LiDAR Localization.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.[[code](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)]
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593741)] Classification of Hanging Garments Using Learned Features Extracted from 3D Point Clouds.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Stereo Camera Localization in 3D LiDAR Maps.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Joint 3D Proposal Generation and Object Detection from View Aggregation.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594318)] Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593910)] Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594175)] NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837)] A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594356)] Extracting Phenotypic Characteristics of Corn Crops Through the Use of Reconstructed 3D Models.
-- [[IROS]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593693)] CalibNet: Geometrically Supervised Extrinsic Calibration using 3D Spatial Transformer Networks.[[tensorflow](https://github.com/epiception/CalibNet)]
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593839)] Dynamic Scaling Factors of Covariances for Accurate 3D Normal Distributions Transform Registration.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593733)] A 3D Laparoscopic Imaging System Based on Stereo-Photogrammetry with Random Patterns.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593558)] Robust Generalized Point Cloud Registration with Expectation Maximization Considering Anisotropic Positional Uncertainties.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594024)] Octree map based on sparse point cloud and heuristic probability distribution for labeled images.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593854)] PoseMap: Lifelong, Multi-Environment 3D LiDAR Localization.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.[[code](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)]
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593741)] Classification of Hanging Garments Using Learned Features Extracted from 3D Point Clouds.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Stereo Camera Localization in 3D LiDAR Maps.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Joint 3D Proposal Generation and Object Detection from View Aggregation.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594318)] Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593910)] Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594175)] NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837)] A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594356)] Extracting Phenotypic Characteristics of Corn Crops Through the Use of Reconstructed 3D Models.
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap.
 - 
 - [[NeurIPS](https://papers.nips.cc/paper/7545-unsupervised-learning-of-shape-and-pose-with-differentiable-point-clouds)] Unsupervised Learning of Shape and Pose with Differentiable Point Clouds. [[tensorflow](https://github.com/eldar/differentiable-point-clouds)]
 - [[NeurIPS](https://papers.nips.cc/paper/7362-pointcnn-convolution-on-x-transformed-points)] PointCNN: Convolution On X-Transformed Points. [[tensorflow](https://github.com/yangyanli/PointCNN)][[pytorch](https://github.com/hxdengBerkeley/PointCNN.Pytorch)]
