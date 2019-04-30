@@ -256,6 +256,3 @@ __`oth.`__: other, including normal-related, correspondence, matching, alignment
 - [[The Stanford Track Collection](https://cs.stanford.edu/people/teichman/stc/)] This dataset contains about 14,000 labeled tracks of objects as observed in natural street scenes by a Velodyne HDL-64E S2 LIDAR.
 - [[PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)] Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild. [__`pos.`__ __`det.`__]
 - [[3D MNIST](https://www.kaggle.com/daavoo/3d-mnist)] The aim of this dataset is to provide a simple way to get started with 3D computer vision problems such as 3D shape recognition. [__`cls.`__]
-- [[]()] . [__`cls.`__ __`seg.`__ __`det.`__]
-- [[]()] . [__`cls.`__ __`seg.`__ __`det.`__]
-- [[]()] . 
