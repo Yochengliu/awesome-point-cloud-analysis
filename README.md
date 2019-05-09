@@ -1,4 +1,4 @@
-# awesome-point-cloud-analysis (ongoing)
+# awesome-point-cloud-analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 for anyone who wants to do research about 3D point cloud.   
 
@@ -163,9 +163,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1811.07605)] Adversarial Autoencoders for Generating 3D Point Clouds. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1811.11209)] Iterative Transformer Network for 3D Point Cloud. [__`cls.`__ __`seg.`__ __`pos.`__]
 - [[arXiv](https://arxiv.org/abs/1811.12543)] Topology-Aware Surface Reconstruction for Point Clouds. [__`rec.`__]
-- [[arXiv](https://arxiv.org/abs/1812.00709)] Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks. [[tensorflow](https://github.com/sitzikbs/Nesti-Net)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1812.01402)] Inferring Point Clouds from Single Monocular Images by Depth Intermediation. [__`oth.`__]
-- [[arXiv](https://arxiv.org/abs/1812.03320)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1812.04302)] Deep RBFNet: Point Cloud Feature Learning using Radial Basis Functions. [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1812.05276)] IPOD: Intensive Point-based Object Detector for Point Cloud. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/1812.07050)] 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition. [__`rel.`__ __`oth.`__]
@@ -200,6 +198,24 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/1904.09793)] PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval. [[code](https://github.com/XLechter/PCAN)] [__`rel.`__]
 - [[CVPR](https://arxiv.org/abs/1903.00709)] PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation. [[pytorch](https://github.com/FoggYu/PartNet)] [__`dat.`__ __`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/1806.02170)] PointFlowNet: Learning Representations for Rigid Motion Estimation from Point Clouds. [[code](https://github.com/aseembehl/pointflownet)] [__`det.`__ __`dat.`__ __`oth.`__] 
+- [[CVPR](https://arxiv.org/abs/1904.03483)] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. [[matlab](https://github.com/intellhave/SDRSAC)] [__`reg.`__]
+- [[CVPR](https://arxiv.org/abs/1903.04019)] Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image. [__`rec.`__ __`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1904.03461)] Embodied Question Answering in Photorealistic Environments with Point Cloud Perception. [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1812.10775v1)] 3D Point-Capsule Networks. [[pytorch](https://github.com/yongheng1991/3D-point-capsule-networks)] [__`cls.`__ __`rec.`__ __`oth.`__]
+- [[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. [__`seg.`__]
+- [[CVPR](https://arxiv.org/abs/1811.06879v2)] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities. [[tensorflow](https://github.com/zgojcic/3DSmoothNet)] [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1811.10136)] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. [[code](https://bitbucket.org/gaowei19951004/poser/src/master/)] [__`reg.`__]
+- [[CVPR](https://arxiv.org/abs/1806.01411)] FlowNet3D: Learning Scene Flow in 3D Point Clouds. [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1811.07782)] Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN. [__`cls.`__ __`det.`__]
+- [[CVPR](http://www.linliang.net/wp-content/uploads/2019/04/CVPR2019_PointClound.pdf)] ClusterNet: Deep Hierarchical Cluster Network with Rigorously Rotation-Invariant Representation for Point Cloud Analysis. [__`cls.`__]
+- [[CVPR](http://jiaya.me/papers/pointweb_cvpr19.pdf)] PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing. [__`cls.`__ __`seg.`__]
+- [[CVPR](https://arxiv.org/abs/1904.12304)] RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion. [[code](https://github.com/iSarmad/RL-GAN-Net)] [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [__`reg.`__]
+- [[CVPR](https://www.researchgate.net/publication/332240602_Robust_Point_Cloud_Based_Reconstruction_of_Large-Scale_Outdoor_Scenes)] Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes. [[code](https://github.com/ziquan111/RobustPCLReconstruction)] [__`rec.`__]
+- [[CVPR](https://arxiv.org/abs/1812.00709)] Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks. [[tensorflow](https://github.com/sitzikbs/Nesti-Net)] [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/1812.03320)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. [__`seg.`__]
+- [[CVPR](https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf)] Graph Attention Convolution for Point Cloud Segmentation. [__`seg.`__]
+- [[CVPR](https://arxiv.org/abs/1812.02050)] Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [__`pos.`__]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
@@ -238,7 +254,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1901.08373)] 3D Backbone Network for 3D Object Detection. [[code](https://github.com/Benzlxs/tDBN)] [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. [[tensorflow](https://github.com/HuguesTHOMAS/KPConv)] [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [__`det.`__]
-
+- [[arXiv](https://arxiv.org/abs/1811.07605v3)] Adversarial Autoencoders for Compact Representations of 3D Point Clouds. [[pytorch](https://github.com/MaciejZamorski/3d-AAE)] [__`rel.`__ __`oth.`__]
 
 <h1> 
 
