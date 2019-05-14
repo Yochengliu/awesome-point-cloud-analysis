@@ -52,7 +52,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://ieeexplore.ieee.org/document/8205955)] 3D fully convolutional network for vehicle detection in point cloud. [[tensorflow](https://github.com/yukitsuji/3D_CNN_tensorflow)] [__`det.`__ __`aut.`__] :fire: :star:
 - [[IROS](https://ieeexplore.ieee.org/document/8206488)] Deep learning of directional truncated signed distance function for robust 3D object recognition. [__`det.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8206584)] Analyzing the quality of matched 3D point clouds of objects. [__`oth.`__]
-
+-
 - [[TPAMI](https://ieeexplore.ieee.org/ielx7/34/8454009/08046026.pdf?tp=&arnumber=8046026&isnumber=8454009&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)]Structure-aware Data Consolidation.[__`oth.`__]
 
 ---
