@@ -53,7 +53,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://ieeexplore.ieee.org/document/8206488)] Deep learning of directional truncated signed distance function for robust 3D object recognition. [__`det.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8206584)] Analyzing the quality of matched 3D point clouds of objects. [__`oth.`__]
 -
-- [[TPAMI](https://ieeexplore.ieee.org/ielx7/34/8454009/08046026.pdf?tp=&arnumber=8046026&isnumber=8454009&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)]Structure-aware Data Consolidation.[__`oth.`__]
+- [[TPAMI](https://ieeexplore.ieee.org/ielx7/34/8454009/08046026.pdf?tp=&arnumber=8046026&isnumber=8454009&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)] Structure-aware Data Consolidation. [__`oth.`__]
 
 ---
 ## 2018
@@ -220,7 +220,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/1812.03320)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. [__`seg.`__]
 - [[CVPR](https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf)] Graph Attention Convolution for Point Cloud Segmentation. [__`seg.`__]
 - [[CVPR](https://arxiv.org/abs/1812.02050)] Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [__`pos.`__]
--
+- [[CVPR](https://arxiv.org/abs/1903.08701v1)] LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving. [__`det.`__ __`aut.`__]
+- 
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
 - [[AAAI](https://arxiv.org/abs/1811.11731)] CAPNet: Continuous Approximation Projection For 3D Point Cloud Reconstruction Using 2D Supervision. [[code](https://github.com/val-iisc/capnet)] [__`rec.`__] 
