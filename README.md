@@ -252,7 +252,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICRA](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] Hierarchical Depthwise Graph Convolutional Neural Network for 3D Semantic Segmentation of Point Clouds. [__`seg.`__]
 - [[ICRA](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] Robust Generalized Point Set Registration Using Inhomogeneous Hybrid Mixture Models Via Expectation. [__`reg.`__]
 - [[ICRA](https://arxiv.org/abs/1902.07511)] Dense 3D Visual Mapping via Semantic Simplification. [__`oth.`__]
-- [[ICRA](https://arxiv.org/abs/1904.01649)] MVX-Net: Multimodal VoxelNet for 3D Object Detection. [__`det.`__]
+- [[ICRA](https://arxiv.org/abs/1904.01649)] MVX-Net: Multimodal VoxelNet for 3D Object Detection. [__`det.`__ __`aut.`__]
 - [[ICRA](https://export.arxiv.org/abs/1810.01470)] CELLO-3D: Estimating the Covariance of ICP in the Real World. [__`reg.`__]
 -
 - [[arXiv](https://arxiv.org/abs/1901.02532)] Fast 3D Line Segment Detection From Unorganized Point Cloud. [__`det.`__]
