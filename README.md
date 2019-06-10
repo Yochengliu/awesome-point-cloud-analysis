@@ -278,7 +278,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1904.00230)] MortonNet: Self-Supervised Learning of Local Features in 3D Point Clouds. [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1904.00817)] DeepPoint3D: Learning Discriminative Local Descriptors using Deep Metric Learning on 3D Point Clouds. [__`cls.`__ __`rel.`__ __`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1904.01416)] A Dataset for Semantic Segmentation of Point Cloud Sequences. [__`dat.`__ __`seg.`__]
-- [[arXiv](http://arxiv.org/abs/1904.02375)] ConvPoint: Generalizing discrete convolutions for unstructured point clouds. [[pytorch](https://github.com/aboulch/ConvPoint)] [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation. [[code](https://github.com/chaojingduan/Neural-Projection)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1904.07537)] Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds. [[pytorch](https://github.com/AI-liu/Complex-YOLO)] [__`det.`__ __`tra.`__ __`aut.`__] :fire:
 - [[arXiv](https://arxiv.org/abs/1904.10795)] Graph-based Inpainting for 3D Dynamic Point Clouds. [__`oth.`__]
