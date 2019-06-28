@@ -227,6 +227,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/1903.08701v1)] LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving. [__`det.`__ __`aut.`__]
 - [[CVPR](https://arxiv.org/pdf/1904.03498.pdf)] LP-3DCNN: Unveiling Local Phase in 3D Convolutional Neural Networks. [[project](https://sites.google.com/view/lp-3dcnn/home)] [__`cls.`__ __`seg.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Duan_Structural_Relational_Reasoning_of_Point_Clouds_CVPR_2019_paper.pdf)] Structural Relational Reasoning of Point Clouds. [__`cls.`__ __`seg.`__]
+- [[CVPR](https://arxiv.org/abs/1903.03322)] 3DN: 3D Deformation Network. [[tensorflow](https://github.com/laughtervv/3DN)] [__`rec.`__ __`oth.`__]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
