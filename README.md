@@ -180,6 +180,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1901.01060)] POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds. [[pytorch](https://github.com/mrakotosaon/pointcleannet)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1803.06199)] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [[pytorch](https://github.com/AI-liu/Complex-YOLO)] [__`det.`__ __`aut.`__] :fire:
 - [[arxiv](https://arxiv.org/abs/1811.03818)] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement. [[tensorflow](https://github.com/Kiwoo/RoarNet)] [__`det.`__ __`aut.`__]
+- [[arXiv](https://arxiv.org/abs/1812.11029)] Multi-column Point-CNN for Sketch Segmentation. [__`seg.`__]
 
 ---
 ## 2019
