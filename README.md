@@ -231,7 +231,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Duan_Structural_Relational_Reasoning_of_Point_Clouds_CVPR_2019_paper.pdf)] Structural Relational Reasoning of Point Clouds. [__`cls.`__ __`seg.`__]
 - [[CVPR](https://arxiv.org/abs/1903.03322)] 3DN: 3D Deformation Network. [[tensorflow](https://github.com/laughtervv/3DN)] [__`rec.`__ __`oth.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Speciale_Privacy_Preserving_Image-Based_Localization_CVPR_2019_paper.pdf)] Privacy Preserving Image-Based Localization. [__`pos.`__ __`oth.`__]
-- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)]Argoverse: 3D Tracking and Forecasting With Rich Maps.[__`tra.`__ __`aut.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)] Argoverse: 3D Tracking and Forecasting With Rich Maps.[__`tra.`__ __`aut.`__]
 - [[CVPRW](http://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)] Attentional PointNet for 3D-Object Detection in Point Clouds. [[pytorch](https://github.com/anshulpaigwar/Attentional-PointNet)] [__`cls.`__ __`det.`__ __`aut.`__]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
