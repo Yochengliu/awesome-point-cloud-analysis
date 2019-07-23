@@ -234,6 +234,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)] Argoverse: 3D Tracking and Forecasting With Rich Maps.[__`tra.`__ __`aut.`__]
 - [[CVPRW](http://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)] Attentional PointNet for 3D-Object Detection in Point Clouds. [[pytorch](https://github.com/anshulpaigwar/Attentional-PointNet)] [__`cls.`__ __`det.`__ __`aut.`__]
 -
+- [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__]
+-
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
 - [[AAAI](https://arxiv.org/abs/1811.11731)] CAPNet: Continuous Approximation Projection For 3D Point Cloud Reconstruction Using 2D Supervision. [[code](https://github.com/val-iisc/capnet)] [__`rec.`__] 
@@ -294,7 +296,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1903.11027)] nuScenes: A multimodal dataset for autonomous driving. [[link](https://www.nuscenes.org/overview)] [__`dat.`__ __`det.`__ __`tra.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1901.08373)] 3D Backbone Network for 3D Object Detection. [[code](https://github.com/Benzlxs/tDBN)] [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. [[tensorflow](https://github.com/HuguesTHOMAS/KPConv)] [__`cls.`__ __`seg.`__]
-- [[arXiv](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/1811.07605v3)] Adversarial Autoencoders for Compact Representations of 3D Point Clouds. [[pytorch](https://github.com/MaciejZamorski/3d-AAE)] [__`rel.`__ __`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/1904.10014.pdf)] Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features. [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1905.08705)] GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud. [[tensorflow](https://github.com/FrankCAN/GAPNet)] [__`cls.`__ __`seg.`__]
