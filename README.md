@@ -235,6 +235,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPRW](http://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)] Attentional PointNet for 3D-Object Detection in Point Clouds. [[pytorch](https://github.com/anshulpaigwar/Attentional-PointNet)] [__`cls.`__ __`det.`__ __`aut.`__]
 -
 - [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__]
+- [[ICCV](https://arxiv.org/abs/1904.03751)] Can GCNs Go as Deep as CNNs? [[tensorflow](https://github.com/lightaime/deep_gcns)] [__`seg.`__]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
