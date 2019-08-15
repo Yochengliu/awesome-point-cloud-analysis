@@ -312,6 +312,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1906.08240)] Neural Point-Based Graphics. [[pytorch](https://github.com/asanakoy/neural_pbg)] [[project](https://dmitryulyanov.github.io/neural_point_based_graphics)] [__`oth.`__] 
 - [[arXiv](https://arxiv.org/abs/1908.02990)] Fast Point R-CNN. [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1908.02111.pdf)] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [__`oth.`__] [[tensorflow](https://github.com/wuhuikai/PointCloudSuperResolution)]
+- [[arXiv](https://arxiv.org/pdf/1907.10471.pdf)] STD: Sparse-to-Dense 3D Object Detector for Point Cloud. [__`det.`__ __`oth.`__]
 -
 - [[IV2019](https://arxiv.org/abs/1906.10964)] End-to-End 3D-PointCloud Semantic Segmentation for Autonomous Driving. [__`seg.`__] [__`aut.`__]
 
