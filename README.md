@@ -240,6 +240,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/1907.12704.pdf)] Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction. [__`oth.`__]
 - [[ICCV](https://drive.google.com/file/d/11GJzouV6jt_aOpvrJ8l3J5x_R_-m-Lg8/view)] SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [[code](https://github.com/TerenceCYJ/SO-HandNet)] [__`pos.`__]
 - [[ICCV](https://arxiv.org/abs/1812.11017)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense. [__`oth.`__]
+- [[ICCV](https://arxiv.org/abs/1908.04616)] Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data. [__`cls.`__ __`dat.`__] [[code](https://github.com/hkust-vgd/scanobjectnn)] [[dataset](https://hkust-vgd.github.io/scanobjectnn/)]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
