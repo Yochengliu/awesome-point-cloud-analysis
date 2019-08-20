@@ -175,8 +175,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1812.01402)] Inferring Point Clouds from Single Monocular Images by Depth Intermediation. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1812.04302)] Deep RBFNet: Point Cloud Feature Learning using Radial Basis Functions. [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1812.05276)] IPOD: Intensive Point-based Object Detector for Point Cloud. [__`det.`__]
-- [[arXiv](https://arxiv.org/abs/1812.07050)] 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition. [__`rel.`__ __`oth.`__]
-- [[arXiv](https://arxiv.org/abs/1812.11017)] Deflecting 3D Adversarial Point Clouds Through Outlier-Guided Removal. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1812.11383)] Feature Preserving and Uniformity-controllable Point Cloud Simplification on Graph. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1901.01060)] POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds. [[pytorch](https://github.com/mrakotosaon/pointcleannet)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1803.06199)] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [[pytorch](https://github.com/AI-liu/Complex-YOLO)] [__`det.`__ __`aut.`__] :fire:
@@ -236,6 +234,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__]
 - [[ICCV](https://arxiv.org/abs/1904.03751)] Can GCNs Go as Deep as CNNs? [[tensorflow](https://github.com/lightaime/deep_gcns)] [__`seg.`__]
+- [[ICCV](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network. [[tensorflow](https://github.com/liruihui/PU-GAN)] [__`oth.`__]
+- [[ICCV](https://arxiv.org/pdf/1812.07050.pdf)] 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition. [__`rel.`__ __`oth.`__]
+- [[ICCV](https://arxiv.org/pdf/1906.12320.pdf)] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. [[pytorch](https://github.com/stevenygd/PointFlow)] [__`oth.`__]
+- [[ICCV](https://arxiv.org/pdf/1907.12704.pdf)] Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction. [__`oth.`__]
+- [[ICCV](https://drive.google.com/file/d/11GJzouV6jt_aOpvrJ8l3J5x_R_-m-Lg8/view)] SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [[code](https://github.com/TerenceCYJ/SO-HandNet)] [__`pos.`__]
+- [[ICCV](https://arxiv.org/abs/1812.11017)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense. [__`oth.`__]
+- [[ICCV](https://arxiv.org/abs/1908.04616)] Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data. [__`cls.`__ __`dat.`__] [[code](https://github.com/hkust-vgd/scanobjectnn)] [[dataset](https://hkust-vgd.github.io/scanobjectnn/)]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
@@ -305,6 +310,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1907.03739)] Point-Voxel CNN for Efficient 3D Deep Learning. [__`seg.`__ __`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.02545.pdf)] Attentive Context Normalization for Robust Permutation-Equivariant Learning. [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1906.08240)] Neural Point-Based Graphics. [[pytorch](https://github.com/asanakoy/neural_pbg)] [[project](https://dmitryulyanov.github.io/neural_point_based_graphics)] [__`oth.`__] 
+- [[arXiv](https://arxiv.org/abs/1908.02990)] Fast Point R-CNN. [__`det.`__ __`aut.`__]
+- [[arXiv](https://arxiv.org/pdf/1908.02111.pdf)] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [__`oth.`__] [[tensorflow](https://github.com/wuhuikai/PointCloudSuperResolution)]
+- [[arXiv](https://arxiv.org/pdf/1907.10471.pdf)] STD: Sparse-to-Dense 3D Object Detector for Point Cloud. [__`det.`__ __`oth.`__]
 -
 - [[IV2019](https://arxiv.org/abs/1906.10964)] End-to-End 3D-PointCloud Semantic Segmentation for Autonomous Driving. [__`seg.`__] [__`aut.`__]
 
