@@ -103,6 +103,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf)] HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. [__`reg.`__]
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf)] Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [__`pos.`__]
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)] PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors. [__`oth.`__]
+- [[ECCVW](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Zeng_3DContextNet_K-d_Tree_Guided_Hierarchical_Learning_of_Point_Clouds_Using_ECCVW_2018_paper.pdf)] 3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues. [__`cls.`__ __`seg.`__]
 -
 - [[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16530/16302)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)] [__`rec.`__] :fire:
 - [[AAAI](https://ai.tencent.com/ailab/media/publications/aaai/junzhou_-AAAI-Adaptive_Graph_Convolutional_Neural_NetworksI.pdf)] Adaptive Graph Convolutional Neural Networks. [__`cls.`__]
@@ -329,6 +330,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1908.02990)] Fast Point R-CNN. [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1908.02111.pdf)] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [__`oth.`__] [[tensorflow](https://github.com/wuhuikai/PointCloudSuperResolution)]
 - [[arXiv](https://arxiv.org/pdf/1907.10471.pdf)] STD: Sparse-to-Dense 3D Object Detector for Point Cloud. [__`det.`__ __`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/1908.10209.pdf)] Blended Convolution and Synthesis for Efficient Discrimination of 3D Shapes. [__`cls.`__ __`rel.`__]
 
 <h1> 
 
