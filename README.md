@@ -240,6 +240,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration. [__`reg.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dovrat_Learning_to_Sample_CVPR_2019_paper.pdf)] Learning to Sample. [[tensorflow](https://github.com/orendv/learning_to_sample)] [__`cls.`__ __`rec.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pittaluga_Revealing_Scenes_by_Inverting_Structure_From_Motion_Reconstructions_CVPR_2019_paper.pdf)] Revealing Scenes by Inverting Structure from Motion Reconstructions. [[code](https://github.com/francescopittaluga/invsfm)] [__`rec.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)] DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image. [[pytorch](https://github.com/JiaxiongQ/DeepLiDAR)] [__`dep.`__]
 -
 - [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[pytorch](https://github.com/facebookresearch/votenet)] [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__] :fire:
 - [[ICCV](https://arxiv.org/abs/1904.03751)] Can GCNs Go as Deep as CNNs? [[tensorflow](https://github.com/lightaime/deep_gcns)] [__`seg.`__]
