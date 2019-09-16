@@ -102,14 +102,18 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)] Deep Continuous Fusion for Multi-Sensor 3D Object Detection. [__`det.`__]
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf)] HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. [__`reg.`__]
 - [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf)] Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [__`pos.`__]
+- [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)] PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors. [__`oth.`__]
+- [[ECCVW](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Zeng_3DContextNet_K-d_Tree_Guided_Hierarchical_Learning_of_Point_Clouds_Using_ECCVW_2018_paper.pdf)] 3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues. [__`cls.`__ __`seg.`__]
 -
 - [[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16530/16302)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)] [__`rec.`__] :fire:
 - [[AAAI](https://ai.tencent.com/ailab/media/publications/aaai/junzhou_-AAAI-Adaptive_Graph_Convolutional_Neural_NetworksI.pdf)] Adaptive Graph Convolutional Neural Networks. [__`cls.`__]
 - 
 - [[NeurIPS](https://papers.nips.cc/paper/7545-unsupervised-learning-of-shape-and-pose-with-differentiable-point-clouds)] Unsupervised Learning of Shape and Pose with Differentiable Point Clouds. [[tensorflow](https://github.com/eldar/differentiable-point-clouds)] [__`pos.`__]
 - [[NeurIPS](https://papers.nips.cc/paper/7362-pointcnn-convolution-on-x-transformed-points)] PointCNN: Convolution On X-Transformed Points. [[tensorflow](https://github.com/yangyanli/PointCNN)][[pytorch](https://github.com/hxdengBerkeley/PointCNN.Pytorch)] [__`cls.`__ __`seg.`__] :fire:
-- 
-- [[SIGGRAPH](https://arxiv.org/abs/1803.10091)] Point Convolutional Neural Networks by Extension Operators. [[tensorflow](https://github.com/matanatz/pcnn)] [__`cls.`__ __`seg.`__]
+-
+- [[ICML](https://arxiv.org/abs/1707.02392)] Learning Representations and Generative Models for 3D Point Clouds. [[code](https://github.com/optas/latent_3d_points)] [__`oth.`__] :fire:
+-
+- [[TOG](https://dl.acm.org/ft_gateway.cfm?id=3201301&ftid=1991771&dwn=1&CFID=155708095&CFTOKEN=598df826a5b545a7-3E7CE91C-DE12-F588-FAEEF2551115E64E)] Point Convolutional Neural Networks by Extension Operators. [[tensorflow](https://github.com/matanatz/pcnn)] [__`cls.`__ __`seg.`__]
 - [[SIGGRAPH](https://arxiv.org/abs/1803.09263)] P2P-NET: Bidirectional Point Displacement Net for Shape Transform. [[tensorflow](https://github.com/kangxue/P2P-NET)] [__`oth.`__]
 - [[SIGGRAPH Asia](https://arxiv.org/abs/1806.01759)] Monte Carlo Convolution for Learning on Non-Uniformly Sampled Point Clouds. [[tensorflow](https://github.com/viscom-ulm/MCCNN)] [__`cls.`__ __`seg.`__ __`oth.`__]
 - [[SIGGRAPH](https://arxiv.org/abs/1706.04496)] Learning local shape descriptors from part correspondences with multi-view convolutional networks. [[project](https://people.cs.umass.edu/~hbhuang/local_mvcnn/index.html)] [__`seg.`__ __`oth.`__] 
@@ -181,10 +185,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1803.06199)] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [[pytorch](https://github.com/AI-liu/Complex-YOLO)] [__`det.`__ __`aut.`__] :fire:
 - [[arxiv](https://arxiv.org/abs/1811.03818)] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement. [[tensorflow](https://github.com/Kiwoo/RoarNet)] [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1812.11029)] Multi-column Point-CNN for Sketch Segmentation. [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/1810.05591)] PointGrow: Autoregressively Learned Point Cloud Generation with Self-Attention. [[project](https://liuziwei7.github.io/projects/PointGrow)] [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/1810.05795.pdf)] Point Cloud GAN. [[pytorch](https://github.com/chunliangli/Point-Cloud-GAN)] [__`oth.`__]
 
 ---
 ## 2019
-- [[CVPR](http://export.arxiv.org/abs/1904.07601)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] [__`cls.`__ __`seg.`__ __`oth.`__]
+- [[CVPR](http://export.arxiv.org/abs/1904.07601)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] [__`cls.`__ __`seg.`__ __`oth.`__] :fire:
 - [[CVPR](https://raoyongming.github.io/files/SFCNN.pdf)] Spherical Fractal Convolutional Neural Networks for Point Cloud Recognition. [__`cls.`__ __`seg.`__]
 - [[CVPR](https://arxiv.org/abs/1811.11397)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://ai4ce.github.io/DeepMapping/)] [__`reg.`__]
 - [[CVPR](https://arxiv.org/abs/1812.07179)] Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving. [[code](https://github.com/mileyan/pseudo_lidar)] [__`det.`__ __`dep.`__ __`aut.`__]
@@ -223,7 +229,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://www.researchgate.net/publication/332240602_Robust_Point_Cloud_Based_Reconstruction_of_Large-Scale_Outdoor_Scenes)] Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes. [[code](https://github.com/ziquan111/RobustPCLReconstruction)] [__`rec.`__]
 - [[CVPR](https://arxiv.org/abs/1812.00709)] Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks. [[tensorflow](https://github.com/sitzikbs/Nesti-Net)] [__`oth.`__]
 - [[CVPR](https://arxiv.org/abs/1812.03320)] GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud. [__`seg.`__]
-- [[CVPR](https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf)] Graph Attention Convolution for Point Cloud Segmentation. [__`seg.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf)] Graph Attention Convolution for Point Cloud Semantic Segmentation. [__`seg.`__]
 - [[CVPR](https://arxiv.org/abs/1812.02050)] Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [__`pos.`__]
 - [[CVPR](https://arxiv.org/abs/1903.08701v1)] LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving. [__`det.`__ __`aut.`__]
 - [[CVPR](https://arxiv.org/pdf/1904.03498.pdf)] LP-3DCNN: Unveiling Local Phase in 3D Convolutional Neural Networks. [[project](https://sites.google.com/view/lp-3dcnn/home)] [__`cls.`__ __`seg.`__]
@@ -233,8 +239,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)] Argoverse: 3D Tracking and Forecasting With Rich Maps.[__`tra.`__ __`aut.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.pdf)] Leveraging Shape Completion for 3D Siamese Tracking. [[pytorch](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)] [__`tra.`__ ]
 - [[CVPRW](http://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)] Attentional PointNet for 3D-Object Detection in Point Clouds. [[pytorch](https://github.com/anshulpaigwar/Attentional-PointNet)] [__`cls.`__ __`det.`__ __`aut.`__]
-- 
-- [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration. [__`reg.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dovrat_Learning_to_Sample_CVPR_2019_paper.pdf)] Learning to Sample. [[tensorflow](https://github.com/orendv/learning_to_sample)] [__`cls.`__ __`rec.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pittaluga_Revealing_Scenes_by_Inverting_Structure_From_Motion_Reconstructions_CVPR_2019_paper.pdf)] Revealing Scenes by Inverting Structure from Motion Reconstructions. [[code](https://github.com/francescopittaluga/invsfm)] [__`rec.`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)] DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image. [[pytorch](https://github.com/JiaxiongQ/DeepLiDAR)] [__`dep.`__]
+-
+- [[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. [[pytorch](https://github.com/facebookresearch/votenet)] [[tensorflow](https://github.com/qq456cvb/VoteNet)] [__`det.`__] :fire:
 - [[ICCV](https://arxiv.org/abs/1904.03751)] Can GCNs Go as Deep as CNNs? [[tensorflow](https://github.com/lightaime/deep_gcns)] [__`seg.`__]
 - [[ICCV](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network. [[tensorflow](https://github.com/liruihui/PU-GAN)] [__`oth.`__]
 - [[ICCV](https://arxiv.org/pdf/1812.07050.pdf)] 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition. [__`rel.`__ __`oth.`__]
@@ -244,7 +254,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/1812.11017)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense. [__`oth.`__]
 - [[ICCV](https://arxiv.org/abs/1908.04616)] Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data. [__`cls.`__ __`dat.`__] [[code](https://github.com/hkust-vgd/scanobjectnn)] [[dataset](https://hkust-vgd.github.io/scanobjectnn/)]
 - [[ICCV](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. [[tensorflow](https://github.com/HuguesTHOMAS/KPConv)] [__`cls.`__ __`seg.`__] :fire:
-- 
+- [[ICCV](https://arxiv.org/pdf/1908.06295.pdf)] ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics. [[project](https://hkust-vgd.github.io/shellnet/)] [__`seg.`__]
+- [[ICCV](https://arxiv.org/pdf/1908.04422.pdf)] Point-Based Multi-View Stereo Network. [[pytorch](https://github.com/callmeray/PointMVSNet)] [__`rec.`__]
+- [[ICCV](https://arxiv.org/abs/1909.03669)] DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing. [[pytorch](https://github.com/Yochengliu/DensePoint)] [__`cls.`__ __`seg.`__ __`oth.`__]
+-
+- [[NeurIPS](https://arxiv.org/pdf/1901.08396.pdf)] Self-Supervised Deep Learning on Point Clouds by Reconstructing Space. [__`cls.`__ __`oth.`__]
+- [[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [[tensorflow](https://github.com/Yang7879/3D-BoNet)] [__`det.`__ __`seg.`__]
+-
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
 - [[AAAI](https://arxiv.org/abs/1811.11731)] CAPNet: Continuous Approximation Projection For 3D Point Cloud Reconstruction Using 2D Supervision. [[code](https://github.com/val-iisc/capnet)] [__`rec.`__] 
@@ -255,6 +271,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. [[tensorflow](https://github.com/WangYueFt/dgcnn)][[pytorch](https://github.com/WangYueFt/dgcnn)] [__`cls.`__ __`seg.`__] :fire: :star:
 - [[SIGGRAPH Asia](https://arxiv.org/abs/1908.00575v1)] StructureNet: Hierarchical Graph Networks for 3D Shape Generation. [__`seg.`__ __`oth.`__]
+-
+- [[ICASSP](https://arxiv.org/abs/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation. [[code](https://github.com/chaojingduan/Neural-Projection)] [__`oth.`__]
 -
 - [[BMVC](https://arxiv.org/abs/1907.06371)] Mitigating the Hubness Problem for Zero-Shot Learning of 3D Objects. [__`cls.`__]
 -
@@ -283,6 +301,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[Eurographics Workshop](https://arxiv.org/abs/1904.02375)] Generalizing Discrete Convolutions for Unstructured Point Clouds. [[pytorch](https://github.com/aboulch/ConvPoint)] [__`cls.`__ __`seg.`__]
 -
+- [[3DV](https://arxiv.org/pdf/1908.06297.pdf)] Rotation Invariant Convolutions for 3D Point Clouds Deep Learning. [[project](https://hkust-vgd.github.io/riconv/)] [__`cls.`__ __`seg.`__]
+-
 - [[arXiv](https://arxiv.org/abs/1901.02532)] Fast 3D Line Segment Detection From Unorganized Point Cloud. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/1812.01687)] Point-Cloud Saliency Maps. [[tensorflow](https://github.com/tianzheng4/PointCloud-Saliency-Maps)] [__`cls.`__ __`oth.`__]
 - [[arXiv](https://export.arxiv.org/abs/1901.03006)] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. [[code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)] [__`oth.`__]
@@ -301,7 +321,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1904.00229)] USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. [[code](https://github.com/lijx10/USIP)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1904.00230)] MortonNet: Self-Supervised Learning of Local Features in 3D Point Clouds. [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1904.00817)] DeepPoint3D: Learning Discriminative Local Descriptors using Deep Metric Learning on 3D Point Clouds. [__`cls.`__ __`rel.`__ __`oth.`__]
-- [[arXiv](https://arxiv.org/abs/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation. [[code](https://github.com/chaojingduan/Neural-Projection)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1904.07537)] Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds. [[pytorch](https://github.com/AI-liu/Complex-YOLO)] [__`det.`__ __`tra.`__ __`aut.`__] :fire:
 - [[arXiv](https://arxiv.org/abs/1904.10795)] Graph-based Inpainting for 3D Dynamic Point Clouds. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1903.11027)] nuScenes: A multimodal dataset for autonomous driving. [[link](https://www.nuscenes.org/overview)] [__`dat.`__ __`det.`__ __`tra.`__ __`aut.`__]
@@ -318,8 +337,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1908.02990)] Fast Point R-CNN. [__`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1908.02111.pdf)] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [__`oth.`__] [[tensorflow](https://github.com/wuhuikai/PointCloudSuperResolution)]
 - [[arXiv](https://arxiv.org/pdf/1907.10471.pdf)] STD: Sparse-to-Dense 3D Object Detector for Point Cloud. [__`det.`__ __`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/1908.10209.pdf)] Blended Convolution and Synthesis for Efficient Discrimination of 3D Shapes. [__`cls.`__ __`rel.`__]
+- [[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. [[tensorflow](https://github.com/tensorflow/lingvo)] [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1903.10168.pdf)] Efficient Tracking Proposals using 2D-3D Siamese Networks on LIDAR. [__`tra.`__]
-
 
 <h1> 
 
