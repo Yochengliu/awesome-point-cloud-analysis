@@ -260,6 +260,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/1909.03669)] DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing. [[pytorch](https://github.com/Yochengliu/DensePoint)] [__`cls.`__ __`seg.`__ __`oth.`__]
 - [[ICCV](https://arxiv.org/abs/1905.04153v2)] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. [__`oth.`__]
 - [[ICCV](https://arxiv.org/pdf/1905.06292.pdf)] 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions. [[pytorch](https://github.com/seowok/TreeGAN)] [__`oth.`__]
+- [[ICCV](https://arxiv.org/pdf/1909.10469.pdf)] Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation. [__`seg.`__]
 -
 - [[NeurIPS](https://arxiv.org/pdf/1901.08396.pdf)] Self-Supervised Deep Learning on Point Clouds by Reconstructing Space. [__`cls.`__ __`oth.`__]
 - [[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [[tensorflow](https://github.com/Yang7879/3D-BoNet)] [__`det.`__ __`seg.`__]
