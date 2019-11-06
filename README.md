@@ -282,6 +282,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. [[tensorflow](https://github.com/WangYueFt/dgcnn)][[pytorch](https://github.com/WangYueFt/dgcnn)] [__`cls.`__ __`seg.`__] :fire: :star:
 - [[SIGGRAPH Asia](https://arxiv.org/abs/1908.00575v1)] StructureNet: Hierarchical Graph Networks for 3D Shape Generation. [__`seg.`__ __`oth.`__]
 -
+- [[MM](https://dl.acm.org/citation.cfm?id=3343031.3351009)] MMJN: Multi-Modal Joint Networks for 3D Shape Recognition. [__`cls.`__ __`rel.`__]
+- [[MM](https://dl.acm.org/citation.cfm?id=3351061)] 3D Point Cloud Geometry Compression on Deep Learning. [__`oth.`__]
+- [[MM](https://dl.acm.org/citation.cfm?id=3351042)] SRINet: Learning Strictly Rotation-Invariant Representations for Point Cloud Classification and Segmentation. [[tensorflow](https://github.com/tasx0823/SRINet)] [__`cls.`__ __`seg.`__]
+- [[MM](https://dl.acm.org/citation.cfm?id=3350960)] L2G Auto-encoder: Understanding Point Clouds by Local-to-Global Reconstruction with Hierarchical Self-Attention. [__`cls.`__ __`rel.`__]
+- [[MM](https://dl.acm.org/citation.cfm?id=3351076)] Ground-Aware Point Cloud Semantic Segmentation for Autonomous Driving. [[code](https://github.com/Jaiy/Ground-aware-Seg)] [__`seg.`__ __`aut.`__]
+-
 - [[ICASSP](https://arxiv.org/abs/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation. [[code](https://github.com/chaojingduan/Neural-Projection)] [__`oth.`__]
 -
 - [[BMVC](https://arxiv.org/abs/1907.06371)] Mitigating the Hubness Problem for Zero-Shot Learning of 3D Objects. [__`cls.`__]
