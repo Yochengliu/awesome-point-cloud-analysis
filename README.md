@@ -318,6 +318,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Eurographics Workshop](https://arxiv.org/abs/1904.02375)] Generalizing Discrete Convolutions for Unstructured Point Clouds. [[pytorch](https://github.com/aboulch/ConvPoint)] [__`cls.`__ __`seg.`__]
 -
 - [[3DV](https://arxiv.org/pdf/1908.06297.pdf)] Rotation Invariant Convolutions for 3D Point Clouds Deep Learning. [[project](https://hkust-vgd.github.io/riconv/)] [__`cls.`__ __`seg.`__]
+- [[3DV](https://arxiv.org/abs/1906.11555)] Effective Rotation-invariant Point CNN with Spherical Harmonics kernels. [[tensorflow](https://github.com/adrienPoulenard/SPHnet)] [__`cls.`__ __`seg.`__ __`oth.`__]
 -
 - [[arXiv](https://arxiv.org/abs/1901.02532)] Fast 3D Line Segment Detection From Unorganized Point Cloud. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/1812.01687)] Point-Cloud Saliency Maps. [[tensorflow](https://github.com/tianzheng4/PointCloud-Saliency-Maps)] [__`cls.`__ __`oth.`__]
