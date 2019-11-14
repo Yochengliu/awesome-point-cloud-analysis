@@ -265,6 +265,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/1909.10469.pdf)] Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation. [__`seg.`__]
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Spezialetti_Learning_an_Effective_Equivariant_3D_Descriptor_Without_Supervision_ICCV_2019_paper.pdf)] Learning an Effective Equivariant 3D Descriptor Without Supervision. [__`oth.`__]
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.html)] Fully Convolutional Geometric Features. [[pytorch](https://github.com/chrischoy/FCGF)] [__`reg.`__]
+- [[ICCV](https://arxiv.org/pdf/1812.07050.pdf)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [__`oth.`__ __`aut.`__]
 -
 - [[NeurIPS](https://arxiv.org/pdf/1901.08396.pdf)] Self-Supervised Deep Learning on Point Clouds by Reconstructing Space. [__`cls.`__ __`oth.`__]
 - [[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [[tensorflow](https://github.com/Yang7879/3D-BoNet)] [__`det.`__ __`seg.`__]
@@ -316,6 +317,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICRA](https://export.arxiv.org/abs/1810.01470)] CELLO-3D: Estimating the Covariance of ICP in the Real World. [__`reg.`__]
 -
 - [[IROS](https://www.researchgate.net/publication/334720713_EPN_Edge-Aware_PointNet_for_Object_Recognition_from_Multi-View_25D_Point_Clouds)] EPN: Edge-Aware PointNet for Object Recognition from Multi-View 2.5D Point Clouds. [[tensorflow](https://github.com/Merium88/Edge-Aware-PointNet)] [__`cls.`__ __`det.`__]
+- [[IROS](https://arxiv.org/pdf/1904.13030.pdf)] SeqLPD: Sequence Matching Enhanced Loop-Closure Detection Based on Large-Scale Point Cloud Description for Self-Driving Vehicles. [__`oth.`__] [__`aut.`__]
 -
 - [[IV](https://arxiv.org/abs/1906.10964)] End-to-End 3D-PointCloud Semantic Segmentation for Autonomous Driving. [__`seg.`__] [__`aut.`__]
 -
@@ -366,6 +368,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1906.03299.pdf)] PyramNet: Point Cloud Pyramid Attention Network and Graph Embedding Module for Classification and Segmentation. [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/1910.08287.pdf)] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. [[tensorflow](https://github.com/hehefan/PointRNN)] [__`tra.`__ __`oth.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1907.09798)] PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. [[tensorflow](https://github.com/paul007pl/PointAtrousGraph)] [__`cls.`__ __`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/1907.05279.pdf)] Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds. [__`oth.`__]
 
 <h1> 
 
