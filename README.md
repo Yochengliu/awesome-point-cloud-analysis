@@ -324,6 +324,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[Eurographics Workshop](https://arxiv.org/abs/1904.02375)] Generalizing Discrete Convolutions for Unstructured Point Clouds. [[pytorch](https://github.com/aboulch/ConvPoint)] [__`cls.`__ __`seg.`__]
 -
+- [[WACV](https://arxiv.org/abs/1811.02191)] 3DCapsule: Extending the Capsule Architecture to Classify 3D Point Clouds. [__`cls.`__]
+-
 - [[3DV](https://arxiv.org/pdf/1908.06297.pdf)] Rotation Invariant Convolutions for 3D Point Clouds Deep Learning. [[project](https://hkust-vgd.github.io/riconv/)] [__`cls.`__ __`seg.`__]
 - [[3DV](https://arxiv.org/abs/1906.11555)] Effective Rotation-invariant Point CNN with Spherical Harmonics kernels. [[tensorflow](https://github.com/adrienPoulenard/SPHnet)] [__`cls.`__ __`seg.`__ __`oth.`__]
 -
