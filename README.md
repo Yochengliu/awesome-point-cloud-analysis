@@ -288,6 +288,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Spezialetti_Learning_an_Effective_Equivariant_3D_Descriptor_Without_Supervision_ICCV_2019_paper.pdf)] Learning an Effective Equivariant 3D Descriptor Without Supervision. [__`oth.`__]
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lahoud_3D_Instance_Segmentation_via_Multi-Task_Metric_Learning_ICCV_2019_paper.pdf)] 3D Instance Segmentation via Multi-Task Metric Learning. [[code](https://sites.google.com/view/3d-instance-mtml)] [__`seg.`__]
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_3D_Face_Modeling_From_Diverse_Raw_Scan_Data_ICCV_2019_paper.pdf)] 3D Face Modeling From Diverse Raw Scan Data. [__`rec.`__]
+- [[ICCVW](https://arxiv.org/abs/1909.12249)] Range Adaptation for 3D Object Detection in LiDAR. [__`det.`__ __`aut.`__]
 -
 - [[NeurIPS](https://arxiv.org/pdf/1901.08396.pdf)] Self-Supervised Deep Learning on Point Clouds by Reconstructing Space. [__`cls.`__ __`oth.`__]
 - [[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [[tensorflow](https://github.com/Yang7879/3D-BoNet)] [__`det.`__ __`seg.`__]
