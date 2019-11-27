@@ -394,6 +394,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1910.08287.pdf)] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. [[tensorflow](https://github.com/hehefan/PointRNN)] [__`tra.`__ __`oth.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/abs/1907.09798)] PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. [[tensorflow](https://github.com/paul007pl/PointAtrousGraph)] [__`cls.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.05279.pdf)] Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/1911.09040.pdf)] 3D-Rotation-Equivariant Quaternion Neural Networks. [__`cls.`__ __`rec.`__]
+- [[arXiv](https://arxiv.org/pdf/1908.11026.pdf)] Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds using Spatial-aware Capsules. [__`cls.`__ __`rel.`__ __`seg.`__]
 
 <h1> 
 
