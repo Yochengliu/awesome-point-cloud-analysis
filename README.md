@@ -292,6 +292,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[NeurIPS](https://arxiv.org/pdf/1901.08396.pdf)] Self-Supervised Deep Learning on Point Clouds by Reconstructing Space. [__`cls.`__ __`oth.`__]
 - [[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [[tensorflow](https://github.com/Yang7879/3D-BoNet)] [__`det.`__ __`seg.`__]
+- [[NeurIPS](http://papers.nips.cc/paper/8706-exploiting-local-and-global-structure-for-point-cloud-semantic-segmentation-with-contextual-point-representations.pdf)] Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations. [[tensorflow](https://github.com/fly519/ELGS)] [__`seg.`__]
 -
 - [[ICLR](https://openreview.net/forum?id=SJeXSo09FQ)] Learning Localized Generative Models for 3D Point Clouds via Graph Convolution. [__`oth.`__]
 -
