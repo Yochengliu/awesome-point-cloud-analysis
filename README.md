@@ -404,6 +404,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1912.00202)] Relation Graph Network for 3D Object Detection in Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.13079.pdf)] Deformable Filter Convolution for Point Cloud Reasoning. [__`seg.`__ __`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.03264.pdf)] PU-GCN: Point Cloud Upsampling via Graph Convolutional Network. [[project](https://sites.google.com/kaust.edu.sa/pugcn)] [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/1911.11098.pdf)] StructEdit: Learning Structural Shape Variations. [[project](https://github.com/daerduoCarey/structedit)] [__`rec.`__]
 
 <h1> 
 
