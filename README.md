@@ -401,7 +401,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1908.11026.pdf)] Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds using Spatial-aware Capsules. [__`cls.`__ __`rel.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1911.12885)] Geometric Feedback Network for Point Cloud Classification. [__`cls.`__]
-- [[arXiv](https://arxiv.org/abs/1912.00280)] Morphing and Sampling Network for Dense Point Cloud Completion. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[project](https://sites.google.com/kaust.edu.sa/sgas)] [[code](https://github.com/lightaime/sgas)] [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1912.00202)] Relation Graph Network for 3D Object Detection in Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.13079.pdf)] Deformable Filter Convolution for Point Cloud Reasoning. [__`seg.`__ __`det.`__ __`aut.`__]
@@ -410,6 +409,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1912.02984v1.pdf)] Grid-GCN for Fast and Scalable Point Cloud Learning. [__`seg.`__ __`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/1911.10150.pdf)] PointPainting: Sequential Fusion for 3D Object Detection. [__`seg.`__ __`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.07161.pdf)] Transductive Zero-Shot Learning for 3D Point Cloud Classification. [__`cls.`__]
+
+---
+## 2020
+- [[AAAI](https://arxiv.org/abs/1912.00280)] Morphing and Sampling Network for Dense Point Cloud Completion. [[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion)] [__`oth.`__]
 
 <h1> 
 
