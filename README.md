@@ -357,6 +357,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[3DV](https://arxiv.org/pdf/1908.06297.pdf)] Rotation Invariant Convolutions for 3D Point Clouds Deep Learning. [[project](https://hkust-vgd.github.io/riconv/)] [__`cls.`__ __`seg.`__]
 - [[3DV](https://arxiv.org/abs/1906.11555)] Effective Rotation-invariant Point CNN with Spherical Harmonics kernels. [[tensorflow](https://github.com/adrienPoulenard/SPHnet)] [__`cls.`__ __`seg.`__ __`oth.`__]
 -
+- [[TVCG](https://arxiv.org/pdf/1907.13538.pdf)] LassoNet: Deep Lasso-Selection of 3D Point Clouds. [[project](https://lassonet.github.io/)] [__`oth.`__]
+-
 - [[arXiv](https://arxiv.org/abs/1901.02532)] Fast 3D Line Segment Detection From Unorganized Point Cloud. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/1812.01687)] Point-Cloud Saliency Maps. [[tensorflow](https://github.com/tianzheng4/PointCloud-Saliency-Maps)] [__`cls.`__ __`oth.`__]
 - [[arXiv](https://export.arxiv.org/abs/1901.03006)] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. [[code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)] [__`oth.`__]
@@ -411,6 +413,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1912.07161.pdf)] Transductive Zero-Shot Learning for 3D Point Cloud Classification. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.10644.pdf)] Geometry Sharing Network for 3D Point Cloud Classification and Segmentation. [[pytorch](https://github.com/MingyeXu/GS-Net)] [__`cls.`__ __`seg.`__]
 - [[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. [[code](https://github.com/QingyongHu/SoTA-Point-Cloud)] [__`cls.`__ __`det.`__ __`tra.`__ __`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/1912.01800v1.pdf)] Spectral-GANs for High-Resolution 3D Point-cloud Generation. [__`rec.`__ __`oth.`__]
 
 ---
 ## 2020
