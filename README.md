@@ -347,6 +347,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[IROS](https://www.researchgate.net/publication/334720713_EPN_Edge-Aware_PointNet_for_Object_Recognition_from_Multi-View_25D_Point_Clouds)] EPN: Edge-Aware PointNet for Object Recognition from Multi-View 2.5D Point Clouds. [[tensorflow](https://github.com/Merium88/Edge-Aware-PointNet)] [__`cls.`__ __`det.`__]
 - [[IROS](https://arxiv.org/pdf/1904.13030.pdf)] SeqLPD: Sequence Matching Enhanced Loop-Closure Detection Based on Large-Scale Point Cloud Description for Self-Driving Vehicles. [__`oth.`__] [__`aut.`__]
+- [[IROS](https://arxiv.org/pdf/1909.01643v1.pdf)] PASS3D: Precise and Accelerated Semantic Segmentation for 3D Point Cloud. [__`seg.`__]
 -
 - [[IV](https://arxiv.org/abs/1906.10964)] End-to-End 3D-PointCloud Semantic Segmentation for Autonomous Driving. [__`seg.`__] [__`aut.`__]
 -
