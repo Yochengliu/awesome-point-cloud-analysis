@@ -417,6 +417,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1912.01800v1.pdf)] Spectral-GANs for High-Resolution 3D Point-cloud Generation. [__`rec.`__ __`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/1909.12663.pdf)] Point Attention Network for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/1909.07137v1.pdf)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/1904.08159)] 3D Object Recognition with Ensemble Learning --- A Study of Point Cloud-Based Deep Learning Models. [__`cls.`__ __`det.`__]
 
 ---
 ## 2020
