@@ -425,7 +425,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI](https://arxiv.org/abs/1912.10775)] Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling. [__`seg.`__ __`cls.`__]
 - [[AAAI](https://arxiv.org/abs/1811.09361)] PRIN: Pointwise Rotation-Invariant Network. [__`seg.`__ __`cls.`__]
 - [[AAAI](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WuW.2180.pdf)] SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. [__`oth`__]
-
 -
 - [[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [__`reg.`__]
@@ -468,7 +467,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300605)] Deep point embedding for urban classification using ALS point clouds: A new perspective from local to global. [__`oth.`__]
 -
--[[Master Thesis](https://pdfs.semanticscholar.org/4303/8a62b3e3b2f44d7a9cc50ff69e7586a758cc.pdf)] Neighborhood Pooling in Graph Neural Networks for 3D and 4D Semantic Segmentation. [__'seg.'__]
+- [[Master Thesis](https://pdfs.semanticscholar.org/4303/8a62b3e3b2f44d7a9cc50ff69e7586a758cc.pdf)] Neighborhood Pooling in Graph Neural Networks for 3D and 4D Semantic Segmentation. [__'seg.'__]
 
 <h1> 
 
