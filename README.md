@@ -7,10 +7,17 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 <h1> 
 
 ```diff
-- Recent papers (from 2019)
+- Recent papers (from 2017)
 ```
 
 </h1>
+
+# Table of Contents
+
+- [2017](#2017)
+- [2018](#2018)
+- [2019](#2019)
+- [2020](#2020)
 
 <h3> Keywords </h3>
 
