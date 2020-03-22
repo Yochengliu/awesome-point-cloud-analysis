@@ -424,14 +424,51 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI](https://arxiv.org/pdf/1912.05163.pdf)] TANet: Robust 3D Object Detection from Point Clouds with Triple Attention. [[code](https://github.com/happinesslz/TANet)] [__`det.`__ __`aut.`__]
 - [[AAAI](https://arxiv.org/abs/1912.10775)] Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling. [__`seg.`__ __`cls.`__]
 - [[AAAI](https://arxiv.org/abs/1811.09361)] PRIN: Pointwise Rotation-Invariant Network. [__`seg.`__ __`cls.`__]
+- [[AAAI](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WuW.2180.pdf)] SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. [__`oth`__]
+
 -
 - [[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [__`reg.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion. [[pytorch](https://github.com/zztianzz/PF-Net-Point-Fractal-Network.git)] [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation. [[pytorch](https://github.com/jzhzhang/FusionAwareConv)] [__`seg.`__] 
+- [[CVPR](https://arxiv.org/pdf/1903.10297.pdf)] AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [__`seg.`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
+- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
+- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
 -
-- [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.06537.pdf)] OccuSeg: Occupancy-aware 3D Instance Segmentation. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.06754.pdf)] MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
+- [[arXiv](https://arxiv.org/ftp/arxiv/papers/2002/2002.12573.pdf)] MANet: Multimodal Attention Network based Point-View fusion for 3D Shape Recognition. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/2002.08239.pdf)] siaNMS: Non-Maximum Suppression with Siamese Networks for Multi-Camera 3D Object Detection. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.03653.pdf)] SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05982.pdf)] LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting. [__`det.`__ __`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.06233.pdf)] Feature Fusion Network Based on Attention Mechanism for 3D Semantic Segmentation of Point Clouds. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05505.pdf)] Confidence Guided Stereo 3D Object Detection with Split Depth Estimation. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space. [__`seg`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05199.pdf)] Self-supervised Point Set Local Descriptors for Point Cloud Registration. [__`reg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05410.pdf)] How Powerful Are Randomly Initialized Pointcloud Set Functions?. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.05420.pdf)] Bi-Directional Attention for Joint Instance and Semantic Segmentation in Point Clouds. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features. [__`cls`__]
+- [[arXiv](https://arxiv.org/pdf/2003.02392.pdf)] PointLoc: Deep Pose Regressor for LiDAR Point Cloud Localization. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.00888.pdf)] 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection. [__`det`__]
+- [[arXiv](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.00601.pdf)] 3D Point Cloud Processing and Learning for Autonomous Driving. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2002.03281.pdf)] PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification. [__`cls.`__]
+-
+- [[ACIIDS](https://link.springer.com/chapter/10.1007/978-3-030-41964-6_41)] Semi-supervised Representation Learning for 3D Point Clouds. [__`oth.`__]
+-
+- [[CG](https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224)] ConvPoint: Continuous convolutions for point cloud processing. [__`oth.`__]
+-
+- [[ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300605)] Deep point embedding for urban classification using ALS point clouds: A new perspective from local to global. [__`oth.`__]
+-
+-[[Master Thesis](https://pdfs.semanticscholar.org/4303/8a62b3e3b2f44d7a9cc50ff69e7586a758cc.pdf)] Neighborhood Pooling in Graph Neural Networks for 3D and 4D Semantic Segmentation. [__'seg.'__]
 
 <h1> 
 
@@ -480,3 +517,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[A*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D)] A*3D: An Autonomous Driving Dataset in Challeging Environments. [__`det.`__]
 - [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds.
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. [__`cls.`__ __`det.`__ __`rec.`__]
+- [[WHU-TLS BENCHMARK](http://3s.whu.edu.cn/ybs/en/benchmark.htm)] WHU-TLS benchmark dataset. [__`reg.`__]
