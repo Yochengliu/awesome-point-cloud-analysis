@@ -462,6 +462,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.00888.pdf)] 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection. [__`det`__]
+- [[arXiv](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00601.pdf)] 3D Point Cloud Processing and Learning for Autonomous Driving. [__`oth.`__]
