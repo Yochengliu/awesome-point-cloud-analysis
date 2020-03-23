@@ -438,6 +438,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation. [[pytorch](https://github.com/jzhzhang/FusionAwareConv)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/1903.10297.pdf)] AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [__`seg.`__]
 - [CVPR] Structure Aware Single-Stage 3D Object Detection from Point Cloud. [__`det.`__]
+- [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[code](https://github.com/liruihui/PointAugment/)] [__`classification.`__] 
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
