@@ -468,6 +468,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00601.pdf)] 3D Point Cloud Processing and Learning for Autonomous Driving. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2002.03281.pdf)] PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions. [__`oth.`__]
 -
 - [[ACIIDS](https://link.springer.com/chapter/10.1007/978-3-030-41964-6_41)] Semi-supervised Representation Learning for 3D Point Clouds. [__`oth.`__]
 -
