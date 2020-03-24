@@ -439,6 +439,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/1903.10297.pdf)] AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [__`seg.`__]
 - [CVPR] Structure Aware Single-Stage 3D Object Detection from Point Cloud. [__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[code](https://github.com/liruihui/PointAugment/)] [__`classification.`__] 
+- [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -461,7 +462,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features. [__`cls`__]
 - [[arXiv](https://arxiv.org/pdf/2003.02392.pdf)] PointLoc: Deep Pose Regressor for LiDAR Point Cloud Localization. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00888.pdf)] 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction. [__`det.`__]
-- [[arXiv](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection. [__`det`__]
 - [[arXiv](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection. [__`det.`__]
@@ -469,7 +469,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.00601.pdf)] 3D Point Cloud Processing and Learning for Autonomous Driving. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2002.03281.pdf)] PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.07238.pdf)] A Rotation-Invariant Framework for Deep Point Cloud Analysis. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.06631.pdf)] Non-Local Part-Aware Point Cloud Denoising. [__`oth.`__]
 -
+- [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
+- 
+- [[TPAMI](https://arxiv.org/pdf/1909.09287.pdf)] Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds. [__`cls.`__]
+- 
 - [[ACIIDS](https://link.springer.com/chapter/10.1007/978-3-030-41964-6_41)] Semi-supervised Representation Learning for 3D Point Clouds. [__`oth.`__]
 -
 - [[CG](https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224)] ConvPoint: Continuous convolutions for point cloud processing. [__`oth.`__]
