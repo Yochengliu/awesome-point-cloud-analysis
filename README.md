@@ -471,7 +471,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07238.pdf)] A Rotation-Invariant Framework for Deep Point Cloud Analysis. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.06631.pdf)] Non-Local Part-Aware Point Cloud Denoising. [__`oth.`__]
-
 - [[arXiv](https://arxiv.org/pdf/1912.07009.pdf)] C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.10826.pdf)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.10670.pdf)] Real-time 3D object proposal generation and classification under limited processing resources. [__`det.`__]
