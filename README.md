@@ -451,7 +451,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
 - [[arXiv](https://arxiv.org/ftp/arxiv/papers/2002/2002.12573.pdf)] MANet: Multimodal Attention Network based Point-View fusion for 3D Shape Recognition. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2002.08239.pdf)] siaNMS: Non-Maximum Suppression with Siamese Networks for Multi-Camera 3D Object Detection. [__`det.`__]
-- [[arXiv](https://arxiv.org/pdf/2003.03653.pdf)] SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.03653.pdf)] SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving. [[code](https://github.com/TiagoCortinhal/SalsaNext)] [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.05982.pdf)] LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting. [__`det.`__ __`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.06233.pdf)] Feature Fusion Network Based on Attention Mechanism for 3D Semantic Segmentation of Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.05505.pdf)] Confidence Guided Stereo 3D Object Detection with Split Depth Estimation. [__`det.`__]
@@ -471,6 +471,14 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07238.pdf)] A Rotation-Invariant Framework for Deep Point Cloud Analysis. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.06631.pdf)] Non-Local Part-Aware Point Cloud Denoising. [__`oth.`__]
+
+- [[arXiv](https://arxiv.org/pdf/1912.07009.pdf)] C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.10826.pdf)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.10670.pdf)] Real-time 3D object proposal generation and classification under limited processing resources. [__`det.`__]
+- [[arXiv](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304070)] Multi-view Semantic Learning Network for Point Cloud Based 3D Object Detection. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Sequential Forecasting of 100,000 Points. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways. [__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.08240.pdf)] LRC-Net: Learning Discriminative Features on Point Clouds by EncodingLocal Region Contexts. [__`cls.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
