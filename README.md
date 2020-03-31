@@ -442,7 +442,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.13035.pdf)] Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds. [[pytorch](https://github.com/raoyongming/PointGLR)][__`oth.`__]
-- [[CVPR](https://arxiv.org/pdf/2003.13326.pdf)] PointGMM: a Neural GMM Network for Point Clouds. [[code](https://github.com/ amirhertz/pointgmm)][__`cls.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.13326.pdf)] PointGMM: a Neural GMM Network for Point Clouds. [[code](https://github.com/amirhertz/pointgmm)][__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.13479.pdf)] RPM-Net: Robust Point Matching using Learned Features. [[code](https://github.com/yewzijian/RPMNet)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.01661.pdf)] Unsupervised Learning of Intrinsic Structural Representation Points. [[pytorch](https://github.com/NolenChen/3DStructurePoints)][__`oth.`__]
 - 
