@@ -440,6 +440,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [CVPR] Structure Aware Single-Stage 3D Object Detection from Point Cloud. [__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[code](https://github.com/liruihui/PointAugment/)] [__`classification.`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.13035.pdf)] Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds. [__`seg.`__] 
+- [[CVPR](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds. [[pytorch](https://github.com/raoyongming/PointGLR)][__`oth.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.13326.pdf)] PointGMM: a Neural GMM Network for Point Clouds. [[code](https://github.com/ amirhertz/pointgmm)][__`cls.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.13479.pdf)] RPM-Net: Robust Point Matching using Learned Features. [[code](https://github.com/yewzijian/RPMNet)] [__`seg.`__] 
+- [[CVPR](https://arxiv.org/pdf/2003.01661.pdf)] Unsupervised Learning of Intrinsic Structural Representation Points. [[pytorch](https://github.com/NolenChen/3DStructurePoints)][__`oth.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -478,6 +483,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Sequential Forecasting of 100,000 Points. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08240.pdf)] LRC-Net: Learning Discriminative Features on Point Clouds by EncodingLocal Region Contexts. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/1912.09654.pdf)] JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)][__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.12641.pdf)] Self-Supervised Learning for Domain Adaptation on Point-Clouds. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.12841.pdf)] A Benchmark for Point Clouds Registration Algorithms. [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark)][__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Unsupervised Sequence Forecasting of 100,000 Points for Unsupervised Trajectory Forecasting. [[pytorch](https://github.com/xinshuoweng/SPCSF)][__`oth.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
