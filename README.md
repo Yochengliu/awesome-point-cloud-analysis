@@ -445,6 +445,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2003.13326.pdf)] PointGMM: a Neural GMM Network for Point Clouds. [[code](https://github.com/amirhertz/pointgmm)][__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.13479.pdf)] RPM-Net: Robust Point Matching using Learned Features. [[code](https://github.com/yewzijian/RPMNet)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.01661.pdf)] Unsupervised Learning of Intrinsic Structural Representation Points. [[pytorch](https://github.com/NolenChen/3DStructurePoints)][__`oth.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.14032.pdf)] PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation. [[pytorch](https://github.com/edwardzhou130/PolarSeg)] [__`seg.`__] 
+- [[CVPR](https://arxiv.org/pdf/2003.13867.pdf)] 3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation. [__`seg.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -489,6 +491,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Unsupervised Sequence Forecasting of 100,000 Points for Unsupervised Trajectory Forecasting. [[pytorch](https://github.com/xinshuoweng/SPCSF)][__`oth.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.14014.pdf)] SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. [__`cls.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.13834.pdf)] Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions. [[pytorch](https://github.com/matheusgadelha/PointCloudLearningACD)][__`oth.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
