@@ -494,7 +494,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Unsupervised Sequence Forecasting of 100,000 Points for Unsupervised Trajectory Forecasting. [[pytorch](https://github.com/xinshuoweng/SPCSF)][__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.14014.pdf)] SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.13834.pdf)] Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions. [[pytorch](https://github.com/matheusgadelha/PointCloudLearningACD)][__`oth.`__]
--- [[arXiv](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection. [__`det.`__]
+- [[arXiv](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2004.00186.pdf)] Boundary-Aware Dense Feature Indicator for Single-Stage 3D Object Detection from Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.05420.pdf)] Bi-Directional Attention for Joint Instance and Semantic Segmentation in Point Clouds. [__`seg.`__]
 -
