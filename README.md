@@ -457,6 +457,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling. [__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection. [__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection. [__`det`__]
+- [[CVPR](https://arxiv.org/abs/2004.01389)] LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention. [[code](https://github.com/yinjunbo/3DVID)][__`det.`__]
+- [[CVPR](https://arxiv.org/pdf/2004.01658.pdf)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation. [__`seg.`__]
+- [[CVPR](https://arxiv.org/abs/2004.02869)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[code](https://github.com/zekunhao1995/DualSDF)][__`seg`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -497,6 +500,14 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2004.00186.pdf)] Boundary-Aware Dense Feature Indicator for Single-Stage 3D Object Detection from Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.05420.pdf)] Bi-Directional Attention for Joint Instance and Semantic Segmentation in Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.13926.pdf)] Scene Context Based Semantic Segmentation for 3D LiDAR Data in Dynamic Scene. [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.01643)] Quantifying Data Augmentation for LiDAR based 3D Object Detection. [[code](https://www.trace.ethz.ch/publications/2020/data_augmentation/)][__`det.`__]
+- [[arXiv](https://arxiv.org/abs/2004.01301)] Generative PointNet: Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.01228)] Deformation-Aware 3D Model Embedding and Retrieval. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.01661)] Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.02774)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds. [[code](https://github.com/xinge008/SSN)][__`det.`__]
+- [[arXiv](https://arxiv.org/abs/2004.02693)] Finding Your (3D) Center: 3D Object Detection Using a Learned Loss. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.02724)] Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds. [__`seg.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
