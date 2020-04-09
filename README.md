@@ -463,6 +463,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2004.03572)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation. [[pytorch](https://github.com/zju3dv/disprcnn)][__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03080)] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection. [[code](https://github.com/mileyan/pseudo-LiDAR_e2e)] [__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03327)] Cascaded Refinement Network for Point Cloud Completion. [[code](https://github.com/xiaogangw/cascaded-point-completion)][__`completion`__]
+- [[CVPR](https://arxiv.org/abs/2004.03967)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions. [__`oth.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
