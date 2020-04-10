@@ -1,6 +1,7 @@
 # awesome-point-cloud-analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 for anyone who wants to do research about 3D point cloud.   
+I will try to update this list everyday!!!
 
 <h1> 
 
@@ -513,6 +514,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.02724)] Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.03401)] MNEW: Multi-domain Neighborhood Embedding and Weighting for Sparse Point Clouds Segmentation. [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.04462)] LightConvPoint: convolution for points. [__`cls.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
