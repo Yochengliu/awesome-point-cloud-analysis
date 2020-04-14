@@ -440,9 +440,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation. [[pytorch](https://github.com/jzhzhang/FusionAwareConv)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/1903.10297.pdf)] AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [__`seg.`__]
-- [[CVPR](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)] SA-SSD: Structure Aware Single-Stage 3D Object Detection from Point Cloud. [[pytorch](https://github.com/skyhehe123/SA-SSD)] [__`det.`__]
+- [[CVPR](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)] SA-SSD: Structure Aware Single-Stage 3D Object Detection from Point Cloud. [[pytorch](https://github.com/skyhehe123/SA-SSD)] [__`det.`__] :fire:
 - [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[code](https://github.com/liruihui/PointAugment/)] [__`classification.`__] 
-- [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__]
+- [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[tensorflow](https://github.com/WeijingShi/Point-GNN)][__`det.`__] :fire:
 - [[CVPR](https://arxiv.org/pdf/2003.13035.pdf)] Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds. [[pytorch](https://github.com/raoyongming/PointGLR)][__`oth.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.13326.pdf)] PointGMM: a Neural GMM Network for Point Clouds. [[code](https://github.com/amirhertz/pointgmm)][__`cls.`__]
@@ -464,6 +464,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2004.03572)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation. [[pytorch](https://github.com/zju3dv/disprcnn)][__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03080)] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection. [[code](https://github.com/mileyan/pseudo-LiDAR_e2e)] [__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03327)] Cascaded Refinement Network for Point Cloud Completion. [[code](https://github.com/xiaogangw/cascaded-point-completion)][__`completion`__]
+- [[CVPR](https://arxiv.org/abs/2004.05679)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. [[code](https://github.com/NUAAXQ/MLCVNet)][__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03967)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions. [__`oth.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
@@ -516,6 +517,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.03401)] MNEW: Multi-domain Neighborhood Embedding and Weighting for Sparse Point Clouds Segmentation. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.04462)] LightConvPoint: convolution for points. [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/2004.04962)] 3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds. [__`det.`__]
+- [[arXiv](https://arxiv.org/abs/2004.05224)] Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review. [__`review.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - 
