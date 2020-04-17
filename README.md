@@ -310,6 +310,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. [[tensorflow](https://github.com/WangYueFt/dgcnn)][[pytorch](https://github.com/WangYueFt/dgcnn)] [__`cls.`__ __`seg.`__] :fire: :star:
 - [[TOG](https://arxiv.org/pdf/1903.10170.pdf)] LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[tensorflow](https://github.com/kangxue/LOGAN)] [__`oth.`__]
+- [[TOG](https://dl.acm.org/doi/10.1145/3355089.3356573)] RPM-Net: recurrent prediction of motion and parts from point cloud. [[tensorflow](https://github.com/Salingo/RPM-Net)] [__`seg.`__]
 - [[SIGGRAPH Asia](https://arxiv.org/abs/1908.00575v1)] StructureNet: Hierarchical Graph Networks for 3D Shape Generation. [__`seg.`__ __`oth.`__]
 -
 - [[MM](https://dl.acm.org/citation.cfm?id=3343031.3351009)] MMJN: Multi-Modal Joint Networks for 3D Shape Recognition. [__`cls.`__ __`rel.`__]
