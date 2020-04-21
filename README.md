@@ -409,11 +409,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1911.09040.pdf)] 3D-Rotation-Equivariant Quaternion Neural Networks. [__`cls.`__ __`rec.`__]
 - [[arXiv](https://arxiv.org/pdf/1908.11026.pdf)] Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds using Spatial-aware Capsules. [__`cls.`__ __`rel.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1911.12885)] Geometric Feedback Network for Point Cloud Classification. [__`cls.`__]
-- [[arXiv](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[project](https://sites.google.com/kaust.edu.sa/sgas)] [[code](https://github.com/lightaime/sgas)] [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1912.00202)] Relation Graph Network for 3D Object Detection in Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.13079.pdf)] Deformable Filter Convolution for Point Cloud Reasoning. [__`seg.`__ __`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.03264.pdf)] PU-GCN: Point Cloud Upsampling via Graph Convolutional Network. [[project](https://sites.google.com/kaust.edu.sa/pugcn)] [__`oth.`__]
-- [[arXiv](https://arxiv.org/pdf/1911.11098.pdf)] StructEdit: Learning Structural Shape Variations. [[project](https://github.com/daerduoCarey/structedit)] [__`rec.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.02984v1.pdf)] Grid-GCN for Fast and Scalable Point Cloud Learning. [__`seg.`__ __`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/1911.10150.pdf)] PointPainting: Sequential Fusion for 3D Object Detection. [__`seg.`__ __`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.07161.pdf)] Transductive Zero-Shot Learning for 3D Point Cloud Classification. [__`cls.`__]
@@ -433,6 +431,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WuW.2180.pdf)] SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. [__`oth`__]
 - [[AAAI](https://arxiv.org/pdf/1912.09654.pdf)] JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds. [[tensorflow](https://github.com/dlinzhao/JSNet)][__`seg.`__]
 - [[AAAI](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection. [__`det.`__]
+- [[AAAI](https://arxiv.org/abs/2004.09411)] Shape-Oriented Convolution Neural Network for Point Cloud Analysis. [__`cls.`__]
 -
 - [[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] [__`seg.`__] :fire:
 - [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [__`reg.`__]
@@ -466,6 +465,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2004.03327)] Cascaded Refinement Network for Point Cloud Completion. [[code](https://github.com/xiaogangw/cascaded-point-completion)][__`completion`__]
 - [[CVPR](https://arxiv.org/abs/2004.05679)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. [[code](https://github.com/NUAAXQ/MLCVNet)][__`det.`__]
 - [[CVPR](https://arxiv.org/abs/2004.03967)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions. [__`oth.`__]
+- [[CVPR](https://arxiv.org/abs/2004.09305)] Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking. [__`track.`__]
+- [[CVPR](https://arxiv.org/abs/1911.11098)] StructEdit: Learning Structural Shape Variations. [[project](https://github.com/daerduoCarey/structedit)] [__`rec.`__]
+- [[CVPR](https://hal.inria.fr/hal-02541349/document)] Connect-and-Slice: an hybrid approach for reconstructing 3D objects. [__`reconstruction.`__]
+- [[CVPR](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[pytorch](https://github.com/lightaime/sgas)] [__'cls.'__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -520,8 +523,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.05224)] Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review. [__`review.`__]
 - [[arXiv](https://arxiv.org/abs/2004.05242)] Simulation-based Lidar Super-resolution for Ground Vehicles. [[tensorflow](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution)][__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.04242)] Deep Manifold Prior. [__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.09057)] Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network. [__`cls.`__]
+- [[arXiv](https://arxiv.org/abs/2004.09061)] Semantic Correspondence via 2D-3D-2D Cycle. [[code](https://github.com/qq456cvb/SemanticTransfer)][__`oth.`__]
+- [[arXiv](https://arxiv.org/abs/2004.08596)] DAPnet: A double self-attention convolutional network for segmentation of point clouds. [[code](https://github.com/RayleighChen/point-attention)] [__`seg.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
+- [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
+- [[ICRA](https://francisengelmann.github.io/DPC/engelmann_icra2020_dpc.pdf)] Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [__`cls.`__]
 - 
 - [[TPAMI](https://arxiv.org/pdf/1909.09287.pdf)] Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds. [__`cls.`__]
 - 
