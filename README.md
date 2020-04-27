@@ -469,6 +469,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/1911.11098)] StructEdit: Learning Structural Shape Variations. [[project](https://github.com/daerduoCarey/structedit)] [__`rec.`__]
 - [[CVPR](https://hal.inria.fr/hal-02541349/document)] Connect-and-Slice: an hybrid approach for reconstructing 3D objects. [__`reconstruction.`__]
 - [[CVPR](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[pytorch](https://github.com/lightaime/sgas)] [__'cls.'__]
+- [[CVPR oral](https://arxiv.org/abs/2004.11540)] Deep Global Registration. [__'reg.'__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -526,10 +527,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.09057)] Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network. [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/2004.09061)] Semantic Correspondence via 2D-3D-2D Cycle. [[code](https://github.com/qq456cvb/SemanticTransfer)][__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.08596)] DAPnet: A double self-attention convolutional network for segmentation of point clouds. [[code](https://github.com/RayleighChen/point-attention)] [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.11784)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance. [__`seg.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
 - [[ICRA](https://francisengelmann.github.io/DPC/engelmann_icra2020_dpc.pdf)] Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [__`cls.`__]
+- [[ICRA](https://arxiv.org/abs/2004.11647)] Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds. [__`det.`__]
 - 
 - [[TPAMI](https://arxiv.org/pdf/1909.09287.pdf)] Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds. [__`cls.`__]
 - 
@@ -540,6 +543,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300605)] Deep point embedding for urban classification using ALS point clouds: A new perspective from local to global. [__`oth.`__]
 -
 - [[GMP](https://arxiv.org/pdf/2003.08240.pdf)] LRC-Net: Learning Discriminative Features on Point Clouds by EncodingLocal Region Contexts. [__`cls.`__]
+-
+- [[SPM](https://arxiv.org/abs/2004.11563)] Deep Feature-preserving Normal Estimation for Point Cloud Filtering. [__`normal.`__]
 -
 - [[Master Thesis](https://pdfs.semanticscholar.org/4303/8a62b3e3b2f44d7a9cc50ff69e7586a758cc.pdf)] Neighborhood Pooling in Graph Neural Networks for 3D and 4D Semantic Segmentation. [__'seg.'__]
 
