@@ -470,6 +470,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://hal.inria.fr/hal-02541349/document)] Connect-and-Slice: an hybrid approach for reconstructing 3D objects. [__`reconstruction.`__]
 - [[CVPR](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[pytorch](https://github.com/lightaime/sgas)] [__'cls.'__]
 - [[CVPR oral](https://arxiv.org/abs/2004.11540)] Deep Global Registration. [__'reg.'__]
+- [[CVPR](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -488,7 +489,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.05420.pdf)] Bi-Directional Attention for Joint Instance and Semantic Segmentation in Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.02392.pdf)] PointLoc: Deep Pose Regressor for LiDAR Point Cloud Localization. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00888.pdf)] 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction. [__`det.`__]
-- [[arXiv](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
 - [[arXiv](https://arxiv.org/pdf/2003.00601.pdf)] 3D Point Cloud Processing and Learning for Autonomous Driving. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2002.03281.pdf)] PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification. [__`cls.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions. [__`oth.`__]
@@ -528,6 +528,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.09061)] Semantic Correspondence via 2D-3D-2D Cycle. [[code](https://github.com/qq456cvb/SemanticTransfer)][__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.08596)] DAPnet: A double self-attention convolutional network for segmentation of point clouds. [[code](https://github.com/RayleighChen/point-attention)] [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.11784)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance. [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.12636)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection. [__`det.`__]
+- [[arXiv](https://arxiv.org/abs/2004.12498)] Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point Clouds of Wild Scenes. [__`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2004.12989)] CoReNet: Coherent 3D scene reconstruction from a single RGB image. [__`reconstruction.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
