@@ -471,6 +471,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[pytorch](https://github.com/lightaime/sgas)] [__'cls.'__]
 - [[CVPR oral](https://arxiv.org/abs/2004.11540)] Deep Global Registration. [__'reg.'__]
 - [[CVPR](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
+- [[CVPR](http://geometry.cs.ucl.ac.uk/projects/2020/deepleanpn/paper_docs/GoingDeeperWithPointNetworksLeKokkinosMitra.pdf)] Going Deeper with Point Networks. [[pytorch](https://github.com/erictuanle/GoingDeeperwPointNetworks)][__'cls.'__]
+- [[CVPR](http://www-sop.inria.fr/members/Florent.Lafarge/)] Connect-and-Slice: an hybrid approach for reconstructing 3D objects. [__`reconstruction`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -539,6 +541,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - 
 - [[TPAMI](https://arxiv.org/pdf/1909.09287.pdf)] Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds. [__`cls.`__]
 - 
+- [[ICLR](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training.[[tensorflow](https://github.com/ChenXuelinCXL/pcl2pcl-gan-pub )] [__`com.`__]
+- 
 - [[ACIIDS](https://link.springer.com/chapter/10.1007/978-3-030-41964-6_41)] Semi-supervised Representation Learning for 3D Point Clouds. [__`oth.`__]
 -
 - [[CG](https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224)] ConvPoint: Continuous convolutions for point cloud processing. [__`oth.`__]
@@ -600,3 +604,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds.
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. [__`cls.`__ __`det.`__ __`rec.`__]
 - [[WHU-TLS BENCHMARK](http://3s.whu.edu.cn/ybs/en/benchmark.htm)] WHU-TLS benchmark dataset. [__`reg.`__]
+- [[DALES](https://arxiv.org/abs/2004.11985)] DALES: A Large-scale Aerial LiDAR Data Set for Semantic Segmentation. [__`seg.`__] 
