@@ -473,6 +473,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector. [__`det`__]
 - [[CVPR](http://geometry.cs.ucl.ac.uk/projects/2020/deepleanpn/paper_docs/GoingDeeperWithPointNetworksLeKokkinosMitra.pdf)] Going Deeper with Point Networks. [[pytorch](https://github.com/erictuanle/GoingDeeperwPointNetworks)][__'cls.'__]
 - [[CVPR](http://www-sop.inria.fr/members/Florent.Lafarge/)] Connect-and-Slice: an hybrid approach for reconstructing 3D objects. [__`reconstruction`__]
+- [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [__`registration`__]
+- [[CVPR](https://arxiv.org/abs/2005.01939)] From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks. [[tensorflow](https://github.com/val-iisc/ssl_3d_recon)][__'image-to-point cloud.'__]
+- [[CVPR](https://arxiv.org/abs/1911.10150)] PointPainting: Sequential Fusion for 3D Object Detection. [__`detection`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -533,6 +536,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.12636)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection. [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/2004.12498)] Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point Clouds of Wild Scenes. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.12989)] CoReNet: Coherent 3D scene reconstruction from a single RGB image. [__`reconstruction.`__]
+- [[arXiv](https://arxiv.org/abs/2005.00383)] MOPS-Net: A Matrix Optimization-driven Network forTask-Oriented 3D Point Cloud Downsampling. [__`sampling.`__]
+- [[arXiv](https://arxiv.org/abs/2005.02138)] PointTriNet: Learned Triangulation of 3D Point Sets. [__`Triangulation.`__]
+- [[arXiv](https://arxiv.org/abs/2005.02696)] Drosophila-Inspired 3D Moving Object Detection Based on Point Clouds. [__`detection.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
