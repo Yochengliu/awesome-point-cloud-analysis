@@ -481,6 +481,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/abs/2005.07178)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression. [__`Compression`__]
 - [[CVPR](https://arxiv.org/abs/2005.08139)] Train in Germany, Test in The USA: Making 3D Object Detectors Generalize. [[code](https://github.com/cxy1997/3D_adapt_auto_driving)][__`detection`__]
 - [[CVPR oral](https://arxiv.org/abs/2005.08144)] High-dimensional Convolutional Networks for Geometric Pattern Recognition. [[code](https://github.com/chrischoy/HighDimConvNets)][__`Recognition`__]
+- [[CVPR oral](https://arxiv.org/abs/2005.13888)] P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds. [[pytorch](https://github.com/HaozheQi/P2B)][__`Tracking`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -550,6 +551,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2005.09830)] Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review. [__`Review.`__]
 - [[arXiv](https://arxiv.org/abs/2005.11626)] hapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds. [__`Generation.`__]
 - [[arXiv](https://arxiv.org/abs/2005.09927)] Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2005.13135)] PAI-Conv: Permutable Anisotropic Convolutional Networks for Learning on Point Clouds. [__`Classification.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
