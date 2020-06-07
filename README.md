@@ -452,7 +452,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes. [__`det.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.06537.pdf)] OccuSeg: Occupancy-aware 3D Instance Segmentation. [__`seg.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.06754.pdf)] MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps. [__`oth.`__]
-- [[CVPR](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space. [__`seg`__]
+- [[CVPR](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space. [[pytorch](https://github.com/Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space)] [__`seg`__]
 - [[CVPR](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features. [__`cls`__]
 - [[CVPR](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling. [__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection. [__`det.`__]
@@ -552,6 +552,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2005.11626)] hapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds. [__`Generation.`__]
 - [[arXiv](https://arxiv.org/abs/2005.09927)] Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2005.13135)] PAI-Conv: Permutable Anisotropic Convolutional Networks for Learning on Point Clouds. [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2005.11626)] ShapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds. [__`Generation.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
