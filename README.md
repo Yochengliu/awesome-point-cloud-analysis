@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020)
+- [2020](#2020) [CVPR: 54 papers]
 
 <h3> Keywords </h3>
 
@@ -483,6 +483,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/abs/2005.08144)] High-dimensional Convolutional Networks for Geometric Pattern Recognition. [[code](https://github.com/chrischoy/HighDimConvNets)][__`Recognition`__]
 - [[CVPR oral](https://arxiv.org/abs/2005.13888)] P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds. [[pytorch](https://github.com/HaozheQi/P2B)][__`Tracking`__]
 - [[CVPR](https://arxiv.org/pdf/2006.04356.pdf)] Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection. [__`detection`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_RevealNet_Seeing_Behind_Objects_in_RGB-D_Scans_CVPR_2020_paper.pdf)] RevealNet: Seeing Behind Objects in RGB-D Scans. [__`Completion`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)] A Hierarchical Graph Network for 3D Object Detection on Point Clouds. [__`Detection`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)] Density Based Clustering for 3D Object Detection in Point Clouds. [__`Detection`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving. [__`Detection`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
