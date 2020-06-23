@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 64 papers]
+- [2020](#2020) [CVPR: 70 papers]
 
 <h3> Keywords </h3>
 
@@ -497,6 +497,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. [__`Sampling`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf)] Sequential 3D Human Pose and Shape Estimation From Point Clouds. [__`Pose`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_An_Efficient_PointLSTM_for_Point_Clouds_Based_Gesture_Recognition_CVPR_2020_paper.pdf)] An Efficient PointLSTM for Point Clouds Based Gesture Recognition. [__`Recognition`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Grid-GCN_for_Fast_and_Scalable_Point_Cloud_Learning_CVPR_2020_paper.pdf)] Grid-GCN for Fast and Scalable Point Cloud Learning. [__`other`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_SpSequenceNet_Semantic_Segmentation_Network_on_4D_Point_Clouds_CVPR_2020_paper.pdf)] SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds. [__`Segmentation`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)] Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [__`Completion`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)] End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds. [__`Description`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)] Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis. [__`other`__]
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)] On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks. [__`other`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -573,6 +579,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2006.03761)] GRNet: Gridding Residual Network for Dense Point Cloud Completion. [__`Completion.`__]
 - [[arXiv](https://arxiv.org/abs/2006.04523)] Learning 3D-3D Correspondences for One-shot Partial-to-partial Registration. [__`Registration.`__]
 - [[arXiv](https://arxiv.org/abs/2006.03762)] Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion. [__`Completion.`__]
+- [[arXiv](https://arxiv.org/abs/2006.05548)] 3D Point Cloud Feature Explanations Using Gradient-Based Methods. [__`other.`__]
+- [[arXiv](https://arxiv.org/abs/2006.05187)] Stereo RGB and Deeper LIDAR Based Network for 3D Object Detection. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
