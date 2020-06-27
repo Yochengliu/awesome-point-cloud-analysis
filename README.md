@@ -503,6 +503,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)] End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds. [__`Description`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)] Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis. [__`other`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)] On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks. [__`other`__]
+- [[CVPRW](https://arxiv.org/abs/2006.12671)] AFDet: Anchor Free One Stage 3D Object Detection. [__`Detection.`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
@@ -582,6 +583,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2006.05548)] 3D Point Cloud Feature Explanations Using Gradient-Based Methods. [__`other.`__]
 - [[arXiv](https://arxiv.org/abs/2006.05187)] Stereo RGB and Deeper LIDAR Based Network for 3D Object Detection. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2006.12356)] Generative Sparse Detection Networks for 3D Single-shot Object Detection. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
