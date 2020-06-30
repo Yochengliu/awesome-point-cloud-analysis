@@ -585,6 +585,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.12356)] Generative Sparse Detection Networks for 3D Single-shot Object Detection. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2006.15505)] 1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation. [__`Detection.`__]
+- [[arXiv](hhttps://arxiv.org/abs/2006.15506)] 1st Place Solutions for Waymo Open Dataset Challenges -- 2D and 3D Tracking. [__`Detection.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
