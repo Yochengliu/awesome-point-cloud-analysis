@@ -433,6 +433,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2004.05679.pdf)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. [[code](https://github.com/NUAAXQ/MLCVNet)] [__`det.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. [[code](https://github.com/itailang/SampleNet)] [__`cls.`__ __`reg.`__ __`rec.`__ __`oth.`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/html/Bernard_MINA_Convex_Mixed-Integer_Programming_for_Non-Rigid_Shape_Alignment_CVPR_2020_paper.html)] MINA: Convex Mixed-Integer Programming for Non-Rigid Shape Alignment.  [__`reg.`__ __`oth.`__]
+- [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [[code](https://github.com/XiaoshuiHuang/fmr)] [__`reg.`__]
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 -
 - [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
