@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 9 papers]
 
 <h3> Keywords </h3>
 
@@ -505,6 +505,16 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)] On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks. [__`other`__]
 - [[CVPRW](https://arxiv.org/abs/2006.12671)] AFDet: Anchor Free One Stage 3D Object Detection. [__`Detection.`__]
 - 
+- [[ECCV]] EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection. [[code](https://github.com/happinesslz/EPNet)][__`Detection`__]
+- [[ECCV](https://arxiv.org/pdf/2004.12636.pdf)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection. [[code](https://github.com/rasd3/3D-CVF)][__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2006.03761)] GRNet: Gridding Residual Network for Dense Point Cloud Completion. [[code](https://github.com/hzxie/GRNet)][__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2007.01294)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis. [[pytorch/tensorflow](https://github.com/zeliu98/CloserLook3D)][__`Analysis.`__]
+- [[ECCV](https://arxiv.org/abs/2004.02693)] Finding Your (3D) Center: 3D Object Detection Using a Learned Loss. [__`Detection.`__]
+- [[ECCV](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
+- [[ECCV](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D Point Clouds. [__`Classification`__]
+- [[ECCV](https://arxiv.org/abs/2004.01661)] Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [__`Interpolation`__]
+- [[ECCV](https://arxiv.org/abs/1911.12408)] PointPWC-Net: Cost Volume on Point Clouds for (Self-)Supervised Scene Flow Estimation. [__`Flow`__]
+-
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
@@ -548,7 +558,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.01228)] Deformation-Aware 3D Model Embedding and Retrieval. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.01661)] Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.02774)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds. [[code](https://github.com/xinge008/SSN)][__`det.`__]
-- [[arXiv](https://arxiv.org/abs/2004.02693)] Finding Your (3D) Center: 3D Object Detection Using a Learned Loss. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.02724)] Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.03401)] MNEW: Multi-domain Neighborhood Embedding and Weighting for Sparse Point Clouds Segmentation. [__`seg.`__]
@@ -587,7 +596,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.15505)] 1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.15506)] 1st Place Solutions for Waymo Open Dataset Challenges -- 2D and 3D Tracking. [__`Detection.`__]
-- [[arXiv](https://arxiv.org/abs/2007.01294)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis. [[pytorch/tensorflow](https://github.com/zeliu98/CloserLook3D)][__`Analysis.`__]
 -
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
