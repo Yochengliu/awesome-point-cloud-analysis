@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 9 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 15 papers]
 
 <h3> Keywords </h3>
 
@@ -507,13 +507,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - 
 - [[ECCV]] EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection. [[code](https://github.com/happinesslz/EPNet)][__`Detection`__]
 - [[ECCV](https://arxiv.org/pdf/2004.12636.pdf)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection. [[code](https://github.com/rasd3/3D-CVF)][__`Detection`__]
-- [[ECCV](https://arxiv.org/abs/2006.03761)] GRNet: Gridding Residual Network for Dense Point Cloud Completion. [[code](https://github.com/hzxie/GRNet)][__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2006.03761)] GRNet: Gridding Residual Network for Dense Point Cloud Completion. [[code](https://github.com/hzxie/GRNet)][__`Completion`__]
 - [[ECCV](https://arxiv.org/abs/2007.01294)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis. [[pytorch/tensorflow](https://github.com/zeliu98/CloserLook3D)][__`Analysis.`__]
 - [[ECCV](https://arxiv.org/abs/2004.02693)] Finding Your (3D) Center: 3D Object Detection Using a Learned Loss. [__`Detection.`__]
 - [[ECCV](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
 - [[ECCV](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D Point Clouds. [__`Classification`__]
 - [[ECCV](https://arxiv.org/abs/2004.01661)] Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [__`Interpolation`__]
 - [[ECCV](https://arxiv.org/abs/1911.12408)] PointPWC-Net: Cost Volume on Point Clouds for (Self-)Supervised Scene Flow Estimation. [__`Flow`__]
+- [[ECCV](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives. [[pytorch](https://github.com/zaiweizhang/H3DNet)][__`Detection.`__]
+- [[ECCV](https://arxiv.org/abs/2003.12181)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [__`Fitting`__]
+- [[ECCV](https://arxiv.org/abs/2003.13834)] Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions. [[code](https://github.com/matheusgadelha/PointCloudLearningACD)][__`Learning`__]
+- [[ECCV](https://arxiv.org/abs/2004.11784)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance. [__`Comparing`__]
+- [[ECCV](https://arxiv.org/abs/2004.02774)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds. [[code](https://github.com/xinge008/SSN)][__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2002.10277)] PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling. [__`Upsampling`__]
+- [[ECCV](https://arxiv.org/abs/1912.00461)] AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds. [__`Perturbations`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
