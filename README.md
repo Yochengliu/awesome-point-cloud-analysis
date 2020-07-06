@@ -403,7 +403,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1911.09040.pdf)] 3D-Rotation-Equivariant Quaternion Neural Networks. [__`cls.`__ __`rec.`__]
 - [[arXiv](https://arxiv.org/pdf/1908.11026.pdf)] Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds using Spatial-aware Capsules. [__`cls.`__ __`rel.`__ __`seg.`__]
 - [[arXiv](https://arxiv.org/abs/1911.12885)] Geometric Feedback Network for Point Cloud Classification. [__`cls.`__]
-- [[arXiv](https://arxiv.org/abs/1912.00195v1)] SGAS: Sequential Greedy Architecture Search. [[project](https://sites.google.com/kaust.edu.sa/sgas)] [[code](https://github.com/lightaime/sgas)] [__`cls.`__]
 - [[arXiv](https://arxiv.org/abs/1912.00202)] Relation Graph Network for 3D Object Detection in Point Clouds. [__`det.`__]
 - [[arXiv](https://arxiv.org/pdf/1907.13079.pdf)] Deformable Filter Convolution for Point Cloud Reasoning. [__`seg.`__ __`det.`__ __`aut.`__]
 - [[arXiv](https://arxiv.org/pdf/1912.03264.pdf)] PU-GCN: Point Cloud Upsampling via Graph Convolutional Network. [[project](https://sites.google.com/kaust.edu.sa/pugcn)] [__`oth.`__]
@@ -434,6 +433,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/html/Bernard_MINA_Convex_Mixed-Integer_Programming_for_Non-Rigid_Shape_Alignment_CVPR_2020_paper.html)] MINA: Convex Mixed-Integer Programming for Non-Rigid Shape Alignment.  [__`reg.`__ __`oth.`__]
 - [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [[code](https://github.com/XiaoshuiHuang/fmr)] [__`reg.`__]
 - [[CVPR](https://arxiv.org/pdf/1907.02545.pdf)] Attentive Context Normalization for Robust Permutation-Equivariant Learning. [[code](https://github.com/vcg-uvic/acne)] [__`cls.`__]
+-
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 -
 - [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
