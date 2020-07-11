@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 15 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 18 papers]
 
 <h3> Keywords </h3>
 
@@ -605,7 +605,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.15505)] 1st Place Solution for Waymo Open Dataset Challenge -- 3D Detection and Domain Adaptation. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2006.15506)] 1st Place Solutions for Waymo Open Dataset Challenges -- 2D and 3D Tracking. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2007.04883)] PIE-NET: Parametric Inference of Point Cloud Edges. [__`Edge Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2007.04537)] Point Set Voting for Partial Point Cloud Analysis. [__`Segmentation,Classification,Completion.`__]
+- [[arXiv](https://arxiv.org/abs/2007.02571)] Geometric Attention for Prediction of Differential Properties in 3D Point Clouds. [__`Feature Line.`__]
+- [[arXiv](https://arxiv.org/abs/2007.02099)] Local Grid Rendering Networks for 3D Object Detection in Point Clouds. [__`Detection.`__]
 -
+- [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
+- 
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
 - [[ICRA](https://francisengelmann.github.io/DPC/engelmann_icra2020_dpc.pdf)] Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [__`cls.`__]
