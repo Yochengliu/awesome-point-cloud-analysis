@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 19 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 20 papers]
 
 <h3> Keywords </h3>
 
@@ -524,6 +524,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2007.02578)] Learning Graph-Convolutional Representations for Point Cloud Denoising. [__`Denoising`__]
 - [[ECCV](https://arxiv.org/pdf/2007.02374.pdf)] Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[tensorflow](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)][__`Completion`__]
 - [[ECCV](https://arxiv.org/pdf/2007.05361.pdf)] Progressive Point Cloud Deconvolution Generation Network. [[code](https://github.com/fpthink/PDGN)][__`Generation`__]
+- [[ECCV](https://arxiv.org/pdf/2007.06888.pdf)] JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds. [[code](https://github.com/hzykent/JSENet)][__`Segmentation`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
