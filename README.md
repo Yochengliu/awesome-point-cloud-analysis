@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 21 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 26 papers]
 
 <h3> Keywords </h3>
 
@@ -526,6 +526,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.05361.pdf)] Progressive Point Cloud Deconvolution Generation Network. [[code](https://github.com/fpthink/PDGN)][__`Generation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.06888.pdf)] JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds. [[code](https://github.com/hzykent/JSENet)][__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.08454.pdf)] Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation. [[pytorch](https://github.com/mentian/object-deformnet)][__`Pose`__]
+- [[ECCV](https://arxiv.org/pdf/2007.09594.pdf)] Mapping in a cycle: Sinkhorn regularized unsupervised learning for point cloud shapes. [__`Correspondence`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10323.pdf)] Pillar-based Object Detection for Autonomous Driving. [[tensorflow](https://github.com/WangYueFt/pillar-od)][__`Detection`__]
+- [[ECCV](https://arxiv.org/pdf/2007.09217.pdf)] DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization. [[pytorch](https://vision.in.tum.de/research/vslam/dh3d)][__`Localization`__]
+- [[ECCV](https://arxiv.org/pdf/2007.09267.pdf)] Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance. [__`Meshing`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation. [__`Generation`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
