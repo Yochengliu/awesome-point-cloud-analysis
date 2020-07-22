@@ -531,6 +531,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.09217.pdf)] DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization. [[pytorch](https://vision.in.tum.de/research/vslam/dh3d)][__`Localization`__]
 - [[ECCV](https://arxiv.org/pdf/2007.09267.pdf)] Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance. [__`Meshing`__]
 - [[ECCV](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation. [__`Generation`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding. [__`Unsupervised,Understanding`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [__`Surfaces`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
