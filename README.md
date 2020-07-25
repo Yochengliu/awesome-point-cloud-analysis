@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 26 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 28 papers]
 
 <h3> Keywords </h3>
 
@@ -533,6 +533,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation. [__`Generation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding. [__`Unsupervised,Understanding`__]
 - [[ECCV](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [__`Surfaces`__]
+- [[ECCV](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans. [__`Fitting`__]
+- [[ECCV](https://arxiv.org/pdf/2007.11901.pdf)] Weakly Supervised 3D Object Detection from Lidar Point Cloud. [__`Detection`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
