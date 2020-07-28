@@ -535,6 +535,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [__`Surfaces`__]
 - [[ECCV](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans. [__`Fitting`__]
 - [[ECCV](https://arxiv.org/pdf/2007.11901.pdf)] Weakly Supervised 3D Object Detection from Lidar Point Cloud. [__`Detection`__]
+- [[ECCV](https://arxiv.org/pdf/2007.13344.pdf)] Self-Prediction for Joint Instance and Semantic Segmentation of Point Clouds. [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation. [__`Segmentation`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
