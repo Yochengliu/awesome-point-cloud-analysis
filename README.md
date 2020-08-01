@@ -538,6 +538,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.13344.pdf)] Self-Prediction for Joint Instance and Semantic Segmentation of Point Clouds. [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation. [__`Segmentation`__]
 -
+- [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
+-
+- [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
+- [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
+- 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
@@ -625,6 +631,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2007.02099)] Local Grid Rendering Networks for 3D Object Detection in Point Clouds. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2007.08488)] Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2007.08501)] Accelerating 3D Deep Learning with PyTorch3D. [__`PyTorch3D.`__]
+- [[arXiv](https://arxiv.org/abs/2007.13373)] Part-Aware Data Augmentation for 3D Object Detection in Point Cloud. [__`Detection.`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
