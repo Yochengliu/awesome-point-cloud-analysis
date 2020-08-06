@@ -633,6 +633,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2007.08488)] Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2007.08501)] Accelerating 3D Deep Learning with PyTorch3D. [__`PyTorch3D.`__]
 - [[arXiv](https://arxiv.org/abs/2007.13373)] Part-Aware Data Augmentation for 3D Object Detection in Point Cloud. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2008.01550)] Cylinder3D: An Effective 3D Framework for Driving-scene LiDAR Semantic Segmentation. [[code](https://github.com/xinge008/Cylinder3D)][__`Segmentation.`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
