@@ -438,7 +438,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 -
 - [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
-
+- 
+- [[ECCV](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D Point Clouds. [__`cls.`__]
 <h1> 
 
 ```diff
