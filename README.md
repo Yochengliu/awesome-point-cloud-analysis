@@ -442,6 +442,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D Point Clouds. [__`cls.`__]
 - [[ECCV](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework
 for Point Cloud Classification. [__`cls.`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for
+3D Point Cloud Understanding. [__`cls.`__ __`seg.`__ __`det.`__]
 <h1> 
 
 ```diff
