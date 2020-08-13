@@ -541,13 +541,17 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
+- [[IROS](https://arxiv.org/pdf/2008.05309.pdf)] Factor Graph based 3D Multi-Object Tracking in Point Clouds. [__`Tracking`__]
 -
 - [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
 - [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
+- [[ACM MM](https://arxiv.org/pdf/2008.04968.pdf)] Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene. [__`Understanding`__]
 - 
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
 - [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
+- 
+- [[BMVC](https://arxiv.org/pdf/2008.05149.pdf)] ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation. [__`Segmentation`__]
 -
 - [[arXiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
@@ -639,6 +643,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2008.03560)] LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [__`Generation.`__]
 - [[arXiv](https://arxiv.org/abs/2008.03404)] VPC-Net: Completion of 3D Vehicles from MLS Point Clouds. [__`Completion.`__]
 - [[arXiv](https://arxiv.org/abs/2008.03928)] Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation. [__`Segmentation.`__]
+- [[arXiv](https://arxiv.org/abs/2008.05242)] PAM:Point-wise Attention Module for 6D Object Pose Estimation. [__`Pose.`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
