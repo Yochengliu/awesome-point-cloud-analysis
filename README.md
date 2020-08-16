@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 28 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 31 papers]
 
 <h3> Keywords </h3>
 
@@ -538,6 +538,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.13344.pdf)] Self-Prediction for Joint Instance and Semantic Segmentation of Point Clouds. [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation. [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.16100.pdf)] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution. [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[pytorch](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)][__`Completion`__]
 -
 - [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
