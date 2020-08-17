@@ -539,6 +539,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation. [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2007.16100.pdf)] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution. [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[pytorch](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)][__`Completion`__]
+- [[ECCV](https://arxiv.org/pdf/2008.06374.pdf)] PointMixup: Augmentation for Point Clouds. [[code](https://github.com/yunlu-chen/PointMixup/)][__`Classification`__]
 -
 - [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
@@ -645,6 +646,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2008.03404)] VPC-Net: Completion of 3D Vehicles from MLS Point Clouds. [__`Completion.`__]
 - [[arXiv](https://arxiv.org/abs/2008.03928)] Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2008.05242)] PAM:Point-wise Attention Module for 6D Object Pose Estimation. [__`Pose.`__]
+- [[arXiv](https://arxiv.org/abs/2008.06471)] Self-Sampling for Neural Point Cloud Consolidation. [__`Consolidation.`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
