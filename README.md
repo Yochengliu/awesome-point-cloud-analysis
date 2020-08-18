@@ -16,7 +16,7 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 34 papers]
+- [2020](#2020) [CVPR: 70 papers; ECCV: 38 papers]
 
 <h3> Keywords </h3>
 
@@ -542,6 +542,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2008.06374.pdf)] PointMixup: Augmentation for Point Clouds. [[code](https://github.com/yunlu-chen/PointMixup/)][__`Classification`__]
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560222.pdf)] SPOT: Selective Point Cloud Voting for Better Proposal in Point Cloud Object Detection. [__`Detection`__]
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650460.pdf)] Rotation-robust Intersection over Union for 3D Object Detection. [__`3D IOU`__]
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)] SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [__`Classification, Completion`__]
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720494.pdf)] Efficient Outdoor 3D Point Cloud Semantic Segmentation for Critical Road Objects and Distributed Contexts. [__`Segmentation`__]
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550596.pdf)] CN: Channel Normalization For Point Cloud Recognition. [__`Recognition`__]
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild. [__`Completion`__]
 -
 - [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
