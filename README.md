@@ -654,6 +654,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2008.03928)] Projected-point-based Segmentation: A New Paradigm for LiDAR Point Cloud Segmentation. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2008.05242)] PAM:Point-wise Attention Module for 6D Object Pose Estimation. [__`Pose.`__]
 - [[arXiv](https://arxiv.org/abs/2008.06471)] Self-Sampling for Neural Point Cloud Consolidation. [__`Consolidation.`__]
+- [[arXiv](https://arxiv.org/abs/2008.09527)] Deterministic PointNetLK for Generalized Registration. [__`Registration.`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
