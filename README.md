@@ -551,6 +551,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
 - [[IROS](https://arxiv.org/pdf/2008.05309.pdf)] Factor Graph based 3D Multi-Object Tracking in Point Clouds. [__`Tracking`__]
+- [[IROS](https://arxiv.org/pdf/2008.11459.pdf)] Semantic Graph Based Place Recognition for 3D Point Clouds. [__`Place Recognition`__]
 -
 - [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
 - [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
