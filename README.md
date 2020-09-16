@@ -657,6 +657,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2008.06471)] Self-Sampling for Neural Point Cloud Consolidation. [__`Consolidation.`__]
 - [[arXiv](https://arxiv.org/abs/2008.09527)] Deterministic PointNetLK for Generalized Registration. [__`Registration.`__]
 - [[arXiv]( https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds.[__`Detection`__]
+- [[arXiv]( https://arxiv.org/pdf/2009.06903.pdf)] A Self Contour-based Rotation and Translation-Invariant Transformation for Point Clouds Recognition.[[code]( https://github.com/shenqildr/ScorNet )] [__`Recognition `__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
