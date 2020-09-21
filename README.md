@@ -658,6 +658,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2008.09527)] Deterministic PointNetLK for Generalized Registration. [__`Registration.`__]
 - [[arXiv]( https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds.[__`Detection`__]
 - [[arXiv]( https://arxiv.org/pdf/2009.06903.pdf)] A Self Contour-based Rotation and Translation-Invariant Transformation for Point Clouds Recognition.[[code]( https://github.com/shenqildr/ScorNet )] [__`Recognition `__]
+- [[arXiv]( https://arxiv.org/pdf/2009.08924.pdf)] Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation. [__`Segmentation`__]
+- [[arXiv]( https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey. [[code]( https://github.com/SHI-Labs/3D-Point-Cloud-Learning)] [__`Survey`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
