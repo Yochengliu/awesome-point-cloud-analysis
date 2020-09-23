@@ -660,6 +660,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv]( https://arxiv.org/pdf/2009.06903.pdf)] A Self Contour-based Rotation and Translation-Invariant Transformation for Point Clouds Recognition.[[code]( https://github.com/shenqildr/ScorNet )] [__`Recognition `__]
 - [[arXiv]( https://arxiv.org/pdf/2009.08924.pdf)] Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation. [__`Segmentation`__]
 - [[arXiv]( https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey. [[code]( https://github.com/SHI-Labs/3D-Point-Cloud-Learning)] [__`Survey`__]
+- [[arXiv]( https://arxiv.org/pdf/2009.10569.pdf)] Improving Point Cloud Semantic Segmentation by Learning 3D Object Proposal Generation. [__`Segmentation`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
