@@ -662,6 +662,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey. [[code]( https://github.com/SHI-Labs/3D-Point-Cloud-Learning)] [__`Survey`__]
 - [[arXiv](https://arxiv.org/pdf/2009.10569.pdf)] Improving Point Cloud Semantic Segmentation by Learning 3D Object Proposal Generation. [__`Segmentation`__]
 - [[arXiv](https://arxiv.org/abs/2009.10945)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`Detection`__]
+- [[arXiv](https://arxiv.org/abs/2010.00321)] Deep-3DAligner: Unsupervised 3D Point Set Registration Network With Optimizable Latent Vector. [__`Registration`__]
 -
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
