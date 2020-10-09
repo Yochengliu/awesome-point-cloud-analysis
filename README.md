@@ -663,7 +663,15 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2009.10569.pdf)] Improving Point Cloud Semantic Segmentation by Learning 3D Object Proposal Generation. [__`Segmentation`__]
 - [[arXiv](https://arxiv.org/abs/2009.10945)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`Detection`__]
 - [[arXiv](https://arxiv.org/abs/2010.00321)] Deep-3DAligner: Unsupervised 3D Point Set Registration Network With Optimizable Latent Vector. [__`Registration`__]
--
+- [[arXiv](https://arxiv.org/pdf/2009.13727.pdf)] Graph-based methods for analyzing orchard tree structure using noisy point cloud data. [__` `__]
+- [[arXiv](https://arxiv.org/pdf/2010.01089.pdf)] Pre-Training by Completing Point Clouds[[torch]( https://github.com/hansen7/OcCo)]. [__`Completion`__]
+- [[arXiv](https://arxiv.org/pdf/2010.00820.pdf)] Discriminative and Generative Models for Anatomical Shape Analysis on Point Clouds with Deep Neural Networks . [__`Analysis `__]
+- [[arXiv](https://arxiv.org/pdf/2010.00824.pdf)] Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds. [__`Grasping`__]
+- [[arXiv](https://arxiv.org/pdf/2010.02449.pdf)] On the Universality of Rotation Equivariant Point Cloud Networks.[__` Analysis `__]
+- [[arXiv](https://arxiv.org/pdf/2010.03506.pdf)] Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels. [__`Detection `__]
+- 
+- [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
+- 
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
