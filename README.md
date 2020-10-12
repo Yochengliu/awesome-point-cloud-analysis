@@ -669,6 +669,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2010.00824.pdf)] Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds. [__`Grasping`__]
 - [[arXiv](https://arxiv.org/pdf/2010.02449.pdf)] On the Universality of Rotation Equivariant Point Cloud Networks.[__` Analysis `__]
 - [[arXiv](https://arxiv.org/pdf/2010.03506.pdf)] Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels. [__`Detection `__]
+- [[arXiv](https://arxiv.org/pdf/2010.04642.pdf)] Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds.[[torch]( https://github.com/nicolas-chaulet/torch-points3d)][__`Framework`__]
+- [[arXiv](https://arxiv.org/pdf/2010.04278.pdf)] Refinement of Predicted Missing Parts Enhance Point Cloud Completion.[[torch]( https://github.com/ivansipiran/Refinement-Point-Cloud-Completion)][__` Completion `__]
 - 
 - [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
 - 
