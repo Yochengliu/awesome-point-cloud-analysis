@@ -671,6 +671,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2010.03506.pdf)] Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels. [__`Detection `__]
 - [[arXiv](https://arxiv.org/pdf/2010.04642.pdf)] Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds.[[torch]( https://github.com/nicolas-chaulet/torch-points3d)][__`Framework`__]
 - [[arXiv](https://arxiv.org/pdf/2010.04278.pdf)] Refinement of Predicted Missing Parts Enhance Point Cloud Completion.[[torch]( https://github.com/ivansipiran/Refinement-Point-Cloud-Completion)][__` Completion `__]
+- [[arXiv](https://arxiv.org/pdf/2010.08719.pdf)] A Self-supervised Cascaded Refinement Network for Point Cloud Completion. [__` Completion`__]
+- [[arXiv](https://arxiv.org/pdf/2010.09079.pdf)] Graphite: GRAPH-Induced feaTure Extraction for Point Cloud Registration. [__` Registration`__]
+- [[arXiv](https://arxiv.org/pdf/2010.09582.pdf)] Learning to Reconstruct and Segment 3D Objects. [__` Segmentation；Reconstruction`__]
+- [[arXiv](https://arxiv.org/pdf/2010.08744.pdf)] Generating Large Convex Polytopes Directly on Point Clouds. [__` Segmentation `__]
 - 
 - [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
 - 
