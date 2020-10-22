@@ -2,7 +2,7 @@
 
 for anyone who wants to do research about 3D point cloud.   
 
-If you find the awesome paper/code/dataset or have some suggestions, please contact linhua2017@ia.ac.cn. Thanks for your valuable contribution to the research community :smiley:   
+If you find the awesome paper/code/dataset or have some suggestions, please contact hualin.vvv@gmail.com. Thanks for your valuable contribution to the research community :smiley:   
 
 ### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020)
 
@@ -436,11 +436,16 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [[code](https://github.com/XiaoshuiHuang/fmr)] [__`reg.`__]
 - [[CVPR](https://arxiv.org/pdf/1907.02545.pdf)] Attentive Context Normalization for Robust Permutation-Equivariant Learning. [[code](https://github.com/vcg-uvic/acne)] [__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for Shape Reconstruction and Completion. [[code](https://github.com/jchibane/if-net)] [__`oth.`__]
+- [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [__`cls.`__]
 -
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 -
 - [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
-
+- 
+- [[ECCV](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D Point Clouds. [__`cls.`__]
+- [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding. [__`cls.`__ __`seg.`__ __`det.`__]
+- [[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[code](https://github.com/sitzikbs/DeepFit)] [__`oth.`__]
+- [[ECCV](https://arxiv.org/abs/2004.11784v2)] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. [[code](https://github.com/dahliau/DPDist)] [__`oth.`__]
 <h1> 
 
 ```diff
