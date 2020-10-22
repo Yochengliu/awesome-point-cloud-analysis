@@ -4,6 +4,8 @@ for anyone who wants to do research about 3D point cloud.
 
 If you find the awesome paper/code/dataset or have some suggestions, please contact linhua2017@ia.ac.cn. Thanks for your valuable contribution to the research community :smiley:   
 
+### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020)
+
 <h1> 
 
 ```diff
