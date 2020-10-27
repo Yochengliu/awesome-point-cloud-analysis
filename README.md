@@ -675,6 +675,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2010.09079.pdf)] Graphite: GRAPH-Induced feaTure Extraction for Point Cloud Registration. [__` Registration`__]
 - [[arXiv](https://arxiv.org/pdf/2010.09582.pdf)] Learning to Reconstruct and Segment 3D Objects. [__` Segmentation；Reconstruction`__]
 - [[arXiv](https://arxiv.org/pdf/2010.08744.pdf)] Generating Large Convex Polytopes Directly on Point Clouds. [__` Segmentation `__]
+- [[arxiv]( https://arxiv.org/pdf/2010.08092.pdf)] Human Segmentation with Dynamic LiDAR Data. [__` Segmentation`__]
+- [[arXiv](https://arxiv.org/pdf/2010.11087.pdf)] Representing Point Clouds with Generative Conditional Invertible Flow Networks. [__`Representation`__]
+- [[arXiv](https://arxiv.org/pdf/2010.11159.pdf)] 3D Meta Point Signature: Learning to Learn 3D Point Signature for 3D Dense Shape Correspondence. [__`Correspondence`__]
+- [[arXiv](https://arxiv.org/pdf/2010.11702.pdf)] MLOD: Awareness of Extrinsic Perturbation in Multi-LiDAR 3D Object Detection for Autonomous Driving.[[code](http://143.89.78.112:5000/sharing/90BpyDIuq)][__`Detection `__]
+- [[arXiv](https://arxiv.org/pdf/2010.11504.pdf)] 3D Meta-Registration: Learning to Learn Registration of 3D Point Clouds. [__`Registration `__]
+- 
+- [[3DV]( https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__` Detection `__]
 - 
 - [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
 - 
