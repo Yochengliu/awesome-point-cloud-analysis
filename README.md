@@ -683,6 +683,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.00652)] Multi-View Adaptive Fusion Network for 3D Object Detection. [__`Detection`__]
 - [[arXiv](https://arxiv.org/abs/2011.00923)] MARNet: Multi-Abstraction Refinement Network for 3D Point Cloud Analysis. [[code](https://github.com/ruc98/MARNet)][__`Analysis`__]
 - [[arXiv](https://arxiv.org/abs/2011.00931)] Point Transformer. [__`Analysis`__]
+- [[arXiv](https://arxiv.org/abs/2011.01404)] Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion. [__`Detection`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 -
