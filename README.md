@@ -687,8 +687,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 -
-- [[3DV]( https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__` Detection `__]
+- [[3DV](https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__` Detection `__]
 - [[3DV](https://arxiv.org/abs/2011.00320)] Scene Flow from Point Clouds with or without Learning. [__`Flow `__]
+- [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)][__` Registration`__]
 - 
 - [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
 - 
