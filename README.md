@@ -547,21 +547,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550596.pdf)] CN: Channel Normalization For Point Cloud Recognition. [__`Recognition`__]
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild. [__`Completion`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690630.pdf)] Deep FusionNet for Point Cloud Semantic Segmentation. [[code](https://github.com/feihuzhang/LiDARSeg)][__`Segmentation`__]
--
-- [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
-- [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
-- [[IROS](https://arxiv.org/pdf/2008.05309.pdf)] Factor Graph based 3D Multi-Object Tracking in Point Clouds. [__`Tracking`__]
-- [[IROS](https://arxiv.org/pdf/2008.11459.pdf)] Semantic Graph Based Place Recognition for 3D Point Clouds. [__`Place Recognition`__]
--
-- [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
-- [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
-- [[ACM MM](https://arxiv.org/pdf/2008.04968.pdf)] Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene. [__`Understanding`__]
-- 
-- [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
-- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
-- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
-- 
-- [[BMVC](https://arxiv.org/pdf/2008.05149.pdf)] ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation. [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
 -
 - [[arXiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
@@ -602,7 +588,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2004.01228)] Deformation-Aware 3D Model Embedding and Retrieval. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.01661)] Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/2004.02774)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds. [[code](https://github.com/xinge008/SSN)][__`det.`__]
-- [[arXiv](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.02724)] Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.03401)] MNEW: Multi-domain Neighborhood Embedding and Weighting for Sparse Point Clouds Segmentation. [__`seg.`__]
 - [[arXiv](https://arxiv.org/abs/2004.04462)] LightConvPoint: convolution for points. [__`cls.`__]
@@ -684,14 +669,33 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.00923)] MARNet: Multi-Abstraction Refinement Network for 3D Point Cloud Analysis. [[code](https://github.com/ruc98/MARNet)][__`Analysis`__]
 - [[arXiv](https://arxiv.org/abs/2011.00931)] Point Transformer. [__`Analysis`__]
 - [[arXiv](https://arxiv.org/abs/2011.01404)] Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion. [__`Detection`__]
+- [[arXiv](https://arxiv.org/abs/2010.05501)] BiPointNet: Binary Neural Network for Point Clouds. [__`Analysis`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
+- [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
+- [[IROS](https://arxiv.org/pdf/2007.15488.pdf)] Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[IROS](https://arxiv.org/pdf/2007.13715.pdf)] Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation. [__`Navigation`__]
+- [[IROS](https://arxiv.org/pdf/2008.05309.pdf)] Factor Graph based 3D Multi-Object Tracking in Point Clouds. [__`Tracking`__]
+- [[IROS](https://arxiv.org/pdf/2008.11459.pdf)] Semantic Graph Based Place Recognition for 3D Point Clouds. [__`Place Recognition`__]
+- [[IROS](http://ras.papercept.net/images/temp/IROS/files/1208.pdf)] PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation. [__`Detection, Flow`__]
 -
-- [[3DV](https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__` Detection `__]
+- [[3DV](https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__`Detection`__]
 - [[3DV](https://arxiv.org/abs/2011.00320)] Scene Flow from Point Clouds with or without Learning. [__`Flow `__]
 - [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)][__` Registration`__]
 - 
+- [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
+- [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
+- [[ACM MM](https://arxiv.org/pdf/2008.04968.pdf)] Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene. [__`Understanding`__]
+- 
+- [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
+- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf)] Global Context Reasoning for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
+- [[WACV](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf)] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [__`oth.`__]
+- 
+- [[BMVC](https://arxiv.org/pdf/2008.05149.pdf)] ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation. [__`Segmentation`__]
+- 
 - [[NIPS](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud. [__`Representation`__]
+- [[NIPS](https://papers.nips.cc/paper/2020/file/fc152e73692bc3c934d248f639d9e963-Paper.pdf)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models. [__`Compression`__]
+- [[NIPS](https://papers.nips.cc/paper/2020/file/9b72e31dac81715466cd580a448cf823-Paper.pdf)] Group Contextual Encoding for 3D Point Clouds. [__`Detection`__]
 - 
 - [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
 - 
