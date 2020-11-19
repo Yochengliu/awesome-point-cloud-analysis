@@ -670,6 +670,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.00931)] Point Transformer. [__`Analysis`__]
 - [[arXiv](https://arxiv.org/abs/2011.01404)] Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion. [__`Detection`__]
 - [[arXiv](https://arxiv.org/abs/2010.05501)] BiPointNet: Binary Neural Network for Point Clouds. [__`Analysis`__]
+- [[arXiv](https://arxiv.org/abs/2011.09080)] Deep Positional and Relational Feature Learning for Rotation-Invariant Point Cloud Analysis. [__`Rotation`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
