@@ -671,6 +671,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.01404)] Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion. [__`Detection`__]
 - [[arXiv](https://arxiv.org/abs/2010.05501)] BiPointNet: Binary Neural Network for Point Clouds. [__`Analysis`__]
 - [[arXiv](https://arxiv.org/abs/2011.09080)] Deep Positional and Relational Feature Learning for Rotation-Invariant Point Cloud Analysis. [__`Rotation`__]
+- [[arXiv](https://arxiv.org/abs/2011.12001)] Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes. [[code](https://github.com/qq456cvb/CanonicalVoting)][__`Detection`__]
+- [[arXiv](https://arxiv.org/abs/2011.12149)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[code](https://github.com/QingyongHu/SpinNet)][__`Registration`__]
+- [[arXiv](https://arxiv.org/abs/2011.12079)] Multi-Features Guidance Network for partial-to-partial point cloud registration. [__`registration`__]
+- [[arXiv](https://arxiv.org/abs/2011.10812)] MoNet: Motion-based Point Cloud Prediction Network. [__`Motion`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
