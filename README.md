@@ -675,6 +675,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.12149)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[code](https://github.com/QingyongHu/SpinNet)][__`Registration`__]
 - [[arXiv](https://arxiv.org/abs/2011.12079)] Multi-Features Guidance Network for partial-to-partial point cloud registration. [__`registration`__]
 - [[arXiv](https://arxiv.org/abs/2011.10812)] MoNet: Motion-based Point Cloud Prediction Network. [__`Motion`__]
+- [[arXiv](https://arxiv.org/abs/2011.12888)] Recalibration of Neural Networks for Point Cloud Analysis. [__`Recalibration`__]
+- [[arXiv](https://arxiv.org/abs/2011.12745)] Deep Magnification-Arbitrary Upsampling over 3D Point Clouds. [__`Upsampling`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
