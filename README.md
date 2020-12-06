@@ -677,6 +677,15 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2011.10812)] MoNet: Motion-based Point Cloud Prediction Network. [__`Motion`__]
 - [[arXiv](https://arxiv.org/abs/2011.12888)] Recalibration of Neural Networks for Point Cloud Analysis. [__`Recalibration`__]
 - [[arXiv](https://arxiv.org/abs/2011.12745)] Deep Magnification-Arbitrary Upsampling over 3D Point Clouds. [__`Upsampling`__]
+- [[arXiv](https://arxiv.org/abs/2011.13849)] Robust Detection of Non-overlapping Ellipses from Points with Applications to Circular Target Extraction in Images and Cylinder Detection in Point Clouds.[__`Detection`__]
+- [[arXiv](https://arxiv.org/abs/2011.13784)] Spherical Interpolated Convolutional Network with Distance-Feature Density for 3D Semantic Segmentation of Point Clouds.[__` Segmentation`__]
+- [[arXiv](https://arxiv.org/abs/2011.13328)] DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution.[__`Segmentation `__]
+- [[arXiv](https://arxiv.org/abs/2011.13005)] PREDATOR: Registration of 3D Point Clouds with Low Overlap.[__`Registration `__]
+- [[arXiv](https://arxiv.org/pdf/2011.14700.pdf)] Learning-based lossless compression of 3D point cloud geometry.[__`Compression`__]
+- [[arXiv](https://arxiv.org/pdf/2011.14880.pdf)] Occlusion Guided Scene Flow Estimation on 3D Point Clouds.[__`Flow`__]
+- [[arXiv](https://arxiv.org/pdf/2011.14289.pdf)] Learning geometry-image representation for 3D point cloud generation.[__`Generation`__]
+- [[arXiv](https://arxiv.org/pdf/2011.14285.pdf)] Deeper or Wider Networks of Point Clouds with Self-attention?[__`Networks`__]
+- [[arXiv](https://arxiv.org/pdf/2011.15081.pdf)] DEF: Deep Estimation of Sharp Geometric Features in 3D Shapes[__`Features`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
@@ -685,6 +694,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://arxiv.org/pdf/2008.05309.pdf)] Factor Graph based 3D Multi-Object Tracking in Point Clouds. [__`Tracking`__]
 - [[IROS](https://arxiv.org/pdf/2008.11459.pdf)] Semantic Graph Based Place Recognition for 3D Point Clouds. [__`Place Recognition`__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/1208.pdf)] PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation. [__`Detection, Flow`__]
+- [[IROS](https://arxiv.org/pdf/2011.14579.pdf)] End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences.[__` Registration `__]
 -
 - [[3DV](https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__`Detection`__]
 - [[3DV](https://arxiv.org/abs/2011.00320)] Scene Flow from Point Clouds with or without Learning. [__`Flow `__]
