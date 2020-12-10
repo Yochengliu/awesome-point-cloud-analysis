@@ -686,6 +686,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2011.14289.pdf)] Learning geometry-image representation for 3D point cloud generation.[__`Generation`__]
 - [[arXiv](https://arxiv.org/pdf/2011.14285.pdf)] Deeper or Wider Networks of Point Clouds with Self-attention?[__`Networks`__]
 - [[arXiv](https://arxiv.org/pdf/2011.15081.pdf)] DEF: Deep Estimation of Sharp Geometric Features in 3D Shapes[__`Features`__]
+- [[arXiv](https://arxiv.org/abs/2012.04934)] AMVNet: Assertion-based Multi-View Fusion Network for LiDAR Semantic Segmentation.[__`Segmentation`__]
+- [[arXiv](https://arxiv.org/abs/2012.05018)] vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition.[__`Registration`__]
+- [[arXiv](https://arxiv.org/abs/2012.04355)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.[[code](https://github.com/THU17cyz/3DIoUMatch)][__`Detection `__]
+- [[arXiv](https://arxiv.org/abs/2012.04439)] SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization.[__`Upsampling`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
