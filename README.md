@@ -690,6 +690,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2012.05018)] vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition.[__`Registration`__]
 - [[arXiv](https://arxiv.org/abs/2012.04355)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.[[code](https://github.com/THU17cyz/3DIoUMatch)][__`Detection `__]
 - [[arXiv](https://arxiv.org/abs/2012.04439)] SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization.[__`Upsampling`__]
+- [[arXiv](https://arxiv.org/abs/2012.03028)] ParaNet: Deep Regular Representation for 3D Point Clouds.[__`Representation`__]
 - 
 - [[IROS](https://arxiv.org/abs/2011.00988)] PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation. [__`Segmentation `__]
 - [[IROS](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)] RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss. [__`Segmentation `__]
@@ -703,6 +704,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[3DV](https://arxiv.org/pdf/2010.08243.pdf)] SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__`Detection`__]
 - [[3DV](https://arxiv.org/abs/2011.00320)] Scene Flow from Point Clouds with or without Learning. [__`Flow `__]
 - [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)][__` Registration`__]
+- [[3DV](https://arxiv.org/abs/2010.09185)] MaskNet: A Fully-Convolutional Network to Estimate Inlier Points. [[pytorch](https://github.com/vinits5/masknet)][__` Registration`__]
 - 
 - [[ACM MM](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds. [[code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)][__`Detection`__]
 - [[ACM MM](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising. [[pytorch](https://github.com/luost26/DMRDenoise)][__`Denoising`__]
