@@ -743,8 +743,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[Master Thesis](https://pdfs.semanticscholar.org/4303/8a62b3e3b2f44d7a9cc50ff69e7586a758cc.pdf)] Neighborhood Pooling in Graph Neural Networks for 3D and 4D Semantic Segmentation. [__'seg.'__]
 
-
-<h1> 
+---
+## 2021
+- [[arXiv](https://arxiv.org/abs/2012.11409)] 3D Object Detection with Pointformer. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2011.13328)] DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution. [__`Segmentation.`__]
+- [[arXiv](https://arxiv.org/abs/2012.10217)] SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation. [__`Segmentation.`__]
+- [[arXiv](https://arxiv.org/abs/2012.10412)] PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/ftp/arxiv/papers/2012/2012.10192.pdf)] LGENet: Local and Global Encoder Network for Semantic Segmentation of Airborne Laser Scanning Point Clouds. [__`Segmentation.`__]
+- [[arXiv](https://arxiv.org/abs/2012.10042)] 3D Object Classification on Partial Point Clouds: A Practical Perspective. [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2012.10066)] PointINet: Point Cloud Frame Interpolation Network. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2012.09418)] PanoNet3D: Combining Semantic and Geometric Understanding for LiDARPoint Cloud Detection. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2012.09688)] PCT: Point Cloud Transformer. [__`Transformer.`__]
+- [[arXiv](https://arxiv.org/abs/2012.09793)] SceneFormer: Indoor Scene Generation with Transformers. [__`Transformer.`__]
+- [[arXiv](https://arxiv.org/abs/2012.09165)] Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts. [__`Understanding.`__]
+- [[arXiv](https://arxiv.org/abs/2012.09688)] PCT: Point Cloud Transformer. [__`Transformer.`__]
 
 ```diff
 - Datasets
