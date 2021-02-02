@@ -757,10 +757,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2012.09688)] PCT: Point Cloud Transformer. [__`Transformer.`__]
 - [[arXiv](https://arxiv.org/abs/2012.09793)] SceneFormer: Indoor Scene Generation with Transformers. [__`Transformer.`__]
 - [[arXiv](https://arxiv.org/abs/2012.09165)] Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts. [__`Understanding.`__]
-- [[arXiv](https://arxiv.org/abs/2012.09688)] PCT: Point Cloud Transformer. [__`Transformer.`__]
 - [[arXiv](https://arxiv.org/abs/2101.02374)] Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition. [[tensorflow](https://github.com/fpthink/EPC-Net)] [__`Place Recognition.`__]
 - [[arXiv](https://arxiv.org/abs/2101.02691)] Self-Supervised Pretraining of 3D Features on any Point-Cloud. [__`Self-Supervised.`__]
 - [[arXiv](https://arxiv.org/abs/2101.02672)] Self-Attention Based Context-Aware 3D Object Detection. [[pytorch](https://github.com/AutoVision-cloud/SA-Det3D)] [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2102.00463)] PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [[pytorch](https://github.com/open-mmlab/OpenPCDet)] [__`Detection.`__]
 
 ```diff
 - Datasets
