@@ -761,6 +761,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2101.02691)] Self-Supervised Pretraining of 3D Features on any Point-Cloud.[[pytorch](https://github.com/facebookresearch/DepthContrast)] [__`Self-Supervised.`__]
 - [[arXiv](https://arxiv.org/abs/2101.02672)] Self-Attention Based Context-Aware 3D Object Detection. [[pytorch](https://github.com/AutoVision-cloud/SA-Det3D)] [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2102.00463)] PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [[pytorch](https://github.com/open-mmlab/OpenPCDet)] [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2102.03747)] DPointNet: A Density-Oriented PointNet for 3D Object Detection in Point Clouds. [__`Detection.`__]
+- [[arXiv](https://arxiv.org/abs/2102.04136)] Points2Vec: Unsupervised Object-level Feature Learning from Point Clouds. [__`Learning.`__]
+- [[arXiv](https://arxiv.org/abs/2102.04014)] Point-set Distances for Learning Representations of 3D Point Clouds. [__`Distances.`__]
+
 
 ```diff
 - Datasets
