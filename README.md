@@ -764,7 +764,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.03747)] DPointNet: A Density-Oriented PointNet for 3D Object Detection in Point Clouds. [__`Detection.`__]
 - [[arXiv](https://arxiv.org/abs/2102.04136)] Points2Vec: Unsupervised Object-level Feature Learning from Point Clouds. [__`Learning.`__]
 - [[arXiv](https://arxiv.org/abs/2102.04014)] Point-set Distances for Learning Representations of 3D Point Clouds. [__`Distances.`__]
-
+- [[arXiv](https://arxiv.org/abs/2102.08945)] Weakly Supervised Learning of Rigid 3D Scene Flow. [[pytorch](https://github.com/zgojcic/Rigid3DSceneFlow)] [__`Scene Flow.`__]
 
 ```diff
 - Datasets
