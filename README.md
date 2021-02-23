@@ -765,6 +765,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.04136)] Points2Vec: Unsupervised Object-level Feature Learning from Point Clouds. [__`Learning.`__]
 - [[arXiv](https://arxiv.org/abs/2102.04014)] Point-set Distances for Learning Representations of 3D Point Clouds. [__`Distances.`__]
 - [[arXiv](https://arxiv.org/abs/2102.08945)] Weakly Supervised Learning of Rigid 3D Scene Flow. [[pytorch](https://github.com/zgojcic/Rigid3DSceneFlow)] [__`Scene Flow.`__]
+- [[arXiv](https://arxiv.org/abs/2102.10788)] Attention Models for Point Clouds in Deep Learning: A Survey. [__`Survey.`__]
 
 ```diff
 - Datasets
