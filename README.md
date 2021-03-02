@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021)
+- [2021](#2021) [CVPR: 0 papers]
 
 <h3> Keywords </h3>
 
@@ -766,6 +766,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.04014)] Point-set Distances for Learning Representations of 3D Point Clouds. [__`Distances.`__]
 - [[arXiv](https://arxiv.org/abs/2102.08945)] Weakly Supervised Learning of Rigid 3D Scene Flow. [[pytorch](https://github.com/zgojcic/Rigid3DSceneFlow)] [__`Scene Flow.`__]
 - [[arXiv](https://arxiv.org/abs/2102.10788)] Attention Models for Point Clouds in Deep Learning: A Survey. [__`Survey.`__]
+- [[arXiv](https://arxiv.org/abs/2102.13391)] Point Cloud Upsampling and Normal Estimation using Deep Learning for Robust Surface Reconstruction. [__`Upsampling.`____`Reconstruction.`__]
 
 ```diff
 - Datasets
