@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 1 paper]
+- [2021](#2021) [CVPR: 2 paper]
 
 <h3> Keywords </h3>
 
@@ -769,6 +769,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.13391)] Point Cloud Upsampling and Normal Estimation using Deep Learning for Robust Surface Reconstruction. [__`Upsampling.`____`Reconstruction.`__]
 - 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
+- [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
 
 ```diff
 - Datasets
