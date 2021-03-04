@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 5 paper]
+- [2021](#2021) [CVPR: 7 paper]
 
 <h3> Keywords </h3>
 
@@ -773,6 +773,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.02535)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://github.com/QingyongHu/SpinNet)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[pytorch](https://github.com/QingyongHu/SpinNet)][__`Registration`__]
 - [[CVPR oral](https://arxiv.org/abs/2101.06605)] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization. [[code](https://github.com/huangjh-pub/multibody-sync)][__`Synchronization`__]
+- [[CVPR](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2012.04355)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection. [[pytorch](https://github.com/thu17cyz/3DIoUMatch)][__`Detection`__]
 
 ```diff
 - Datasets
