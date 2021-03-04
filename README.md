@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 2 paper]
+- [2021](#2021) [CVPR: 5 paper]
 
 <h3> Keywords </h3>
 
@@ -770,6 +770,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2103.02535)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion. [__`Completion`__]
+- [[CVPR](https://github.com/QingyongHu/SpinNet)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[pytorch](https://github.com/QingyongHu/SpinNet)][__`Registration`__]
+- [[CVPR oral](https://arxiv.org/abs/2101.06605)] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization. [[code](https://github.com/huangjh-pub/multibody-sync)][__`Synchronization`__]
 
 ```diff
 - Datasets
