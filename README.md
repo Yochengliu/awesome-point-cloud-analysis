@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 7 paper]
+- [2021](#2021) [CVPR: 9 paper]
 
 <h3> Keywords </h3>
 
@@ -775,6 +775,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/abs/2101.06605)] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization. [[code](https://github.com/huangjh-pub/multibody-sync)][__`Synchronization`__]
 - [[CVPR](https://arxiv.org/abs/2006.11275)] Center-based 3D Object Detection and Tracking. [[pytorch](https://github.com/tianweiy/CenterPoint)][__`Detection`__]
 - [[CVPR](https://arxiv.org/abs/2012.04355)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection. [[pytorch](https://github.com/thu17cyz/3DIoUMatch)][__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2103.03046)] PointGuard: Provably Robust 3D Point Cloud Classification. [__`Classification`__]
+- [[CVPR](https://arxiv.org/abs/2103.03067)] TPCN: Temporal Point Cloud Networks for Motion Forecasting. [__`Motion`__]
 
 ```diff
 - Datasets
