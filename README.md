@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 10 paper]
+- [2021](#2021) [CVPR: 11 paper]
 
 <h3> Keywords </h3>
 
@@ -778,6 +778,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.03046)] PointGuard: Provably Robust 3D Point Cloud Classification. [__`Classification`__]
 - [[CVPR](https://arxiv.org/abs/2103.03067)] TPCN: Temporal Point Cloud Networks for Motion Forecasting. [__`Motion`__]
 - [[CVPR](https://arxiv.org/abs/2009.03137)] Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges. [[code](https://github.com/QingyongHu/SensatUrban)][__`Segmentation`__]
+- [[CVPR](https://arxiv.org/abs/2103.04256)] Robust Point Cloud Registration Framework Based on Deep Graph Matching. [[code](https://github.com/fukexue/RGM)][__`Registration`__]
 
 ```diff
 - Datasets
