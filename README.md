@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 11 paper]
+- [2021](#2021) [CVPR: 15 paper]
 
 <h3> Keywords </h3>
 
@@ -779,6 +779,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.03067)] TPCN: Temporal Point Cloud Networks for Motion Forecasting. [__`Motion`__]
 - [[CVPR](https://arxiv.org/abs/2009.03137)] Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges. [[code](https://github.com/QingyongHu/SensatUrban)][__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2103.04256)] Robust Point Cloud Registration Framework Based on Deep Graph Matching. [[code](https://github.com/fukexue/RGM)][__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2103.05346)] ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection. [[code](https://github.com/CVMI-Lab/ST3D)][__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2103.05465)] PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency. [__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2103.05558)] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis. [__`Scene analysis`__]
+- [[CVPR](https://arxiv.org/abs/2103.05086)] How Privacy-Preserving are Line Clouds? Recovering Scene Details from 3D Lines. [[code](https://github.com/kunalchelani/Line2Point)][__`Scene recover`__]
+
 
 ```diff
 - Datasets
