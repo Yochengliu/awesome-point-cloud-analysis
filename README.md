@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 16 paper]
+- [2021](#2021) [CVPR: 18 paper]
 
 <h3> Keywords </h3>
 
@@ -784,6 +784,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.05558)] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis. [__`Scene analysis`__]
 - [[CVPR](https://arxiv.org/abs/2103.05086)] How Privacy-Preserving are Line Clouds? Recovering Scene Details from 3D Lines. [[code](https://github.com/kunalchelani/Line2Point)][__`Scene recover`__]
 - [[CVPR](https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html)] Point2Skeleton: Learning Skeletal Representations from Point Clouds. [[code](https://github.com/clinplayer/Point2Skeleton)][__`Skeleton`__]
+- [[CVPR](https://arxiv.org/abs/2103.07838)] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [__`Completion`__]
+- [[CVPR](https://arxiv.org/abs/2103.07969)] Monte Carlo Scene Search for 3D Scene Understanding. [__`Understanding`__]
 
 
 ```diff
