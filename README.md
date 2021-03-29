@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 21 paper]
+- [2021](#2021) [CVPR: 22 paper]
 
 <h3> Keywords </h3>
 
@@ -789,7 +789,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2102.04530)] AF2-S3Net: Attentive Feature Fusion with Adaptive Feature Selection for Sparse Semantic Segmentation Network. [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2103.14147)] Equivariant Point Network for 3D Point Cloud Analysis. [__`Analysis`__]
 - [[CVPR](https://arxiv.org/abs/2103.14635)] PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds. [[code](https://github.com/CVMI)][__`Convolution`__]
-
+- [[CVPR](http://arxiv.org/abs/1912.00145)] Point Cloud Instance Segmentation using Probabilistic Embeddings. [__`Segmentation`__]
 
 ```diff
 - Datasets
