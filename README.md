@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 22 paper]
+- [2021](#2021) [CVPR: 25 paper]
 
 <h3> Keywords </h3>
 
@@ -790,6 +790,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.14147)] Equivariant Point Network for 3D Point Cloud Analysis. [__`Analysis`__]
 - [[CVPR](https://arxiv.org/abs/2103.14635)] PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds. [[code](https://github.com/CVMI)][__`Convolution`__]
 - [[CVPR](http://arxiv.org/abs/1912.00145)] Point Cloud Instance Segmentation using Probabilistic Embeddings. [__`Segmentation`__]
+- [[CVPR](https://arxiv.org/abs/2103.14962)] Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation. [__`Segmentation`__]
+- [[CVPR](https://arxiv.org/abs/2103.15231)] ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning. [__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2103.15297)] LiDAR R-CNN: An Efficient and Universal 3D Object Detector. [[code](https://github.com/tusimple/LiDAR_RCNN)][__`Detection`__]
 
 ```diff
 - Datasets
