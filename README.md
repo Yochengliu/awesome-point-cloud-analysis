@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 27 paper]
+- [2021](#2021) [CVPR: 28 paper]
 
 <h3> Keywords </h3>
 
@@ -795,7 +795,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.15297)] LiDAR R-CNN: An Efficient and Universal 3D Object Detector. [[code](https://github.com/tusimple/LiDAR_RCNN)][__`Detection`__]
 - [[CVPR](https://arxiv.org/abs/2104.00902)] HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection. [__`Detection`__]
 - [[CVPR](https://arxiv.org/abs/2104.00798)] FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds. [__`Flow`__]
-
+- [[CVPR](https://arxiv.org/abs/2104.03501)] DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [[code](https://github.com/lijx10/DeepI2P)][__`Registration`__]
 
 ```diff
 - Datasets
