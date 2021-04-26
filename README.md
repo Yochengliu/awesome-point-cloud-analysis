@@ -447,8 +447,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[code](https://github.com/sitzikbs/DeepFit)] [__`oth.`__]
 - [[ECCV](https://arxiv.org/abs/2004.11784v2)] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. [[code](https://github.com/dahliau/DPDist)] [__`oth.`__]
 - 
-- [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
+- [[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [[code](https://github.com/anshulpaigwar/GndNet)] [__`seg.`__ __`aut.`__]
 - 
+- [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
 <h1> 
 
 ```diff
