@@ -450,6 +450,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [[code](https://github.com/anshulpaigwar/GndNet)] [__`seg.`__ __`aut.`__]
 - 
 - [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
+
+## 2021
+- [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`cls.`__ __`seg.`__]
+- 
+- [[CVPR](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[code](https://github.com/hehefan/P4Transformer)][__`cls.`__ __`seg.`__]
+
 <h1> 
 
 ```diff
