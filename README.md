@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 29 paper]
+- [2021](#2021) [CVPR: 31 paper]
 
 <h3> Keywords </h3>
 
@@ -797,6 +797,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2104.00798)] FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds. [__`Flow`__]
 - [[CVPR](https://arxiv.org/abs/2104.03501)] DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [[code](https://github.com/lijx10/DeepI2P)][__`Registration`__]
 - [[CVPR](https://arxiv.org/abs/2104.06114)] Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds. [[pytorch](https://github.com/cheng052/BRNet)][__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2104.13366)] Unsupervised 3D Shape Completion through GAN Inversion. [[pytorch](https://github.com/junzhezhang/shape-inversion)][__`Completion`__]
+- [[CVPR](https://arxiv.org/abs/2104.09804)] SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud. [[code](https://github.com/Vegeta2020/SE-SSD)][__`Detection`__]
 
 ```diff
 - Datasets
