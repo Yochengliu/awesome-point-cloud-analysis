@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 31 paper]
+- [2021](#2021) [CVPR: 32 paper]
 
 <h3> Keywords </h3>
 
@@ -768,6 +768,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.10788)] Attention Models for Point Clouds in Deep Learning: A Survey. [__`Survey.`__]
 - [[arXiv](https://arxiv.org/abs/2102.13391)] Point Cloud Upsampling and Normal Estimation using Deep Learning for Robust Surface Reconstruction. [__`Upsampling.`____`Reconstruction.`__]
 - 
+- [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`Sequences`__]
+- 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
 - [[CVPR](https://arxiv.org/abs/2103.02535)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion. [__`Completion`__]
@@ -799,6 +801,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2104.06114)] Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds. [[pytorch](https://github.com/cheng052/BRNet)][__`Detection`__]
 - [[CVPR](https://arxiv.org/abs/2104.13366)] Unsupervised 3D Shape Completion through GAN Inversion. [[pytorch](https://github.com/junzhezhang/shape-inversion)][__`Completion`__]
 - [[CVPR](https://arxiv.org/abs/2104.09804)] SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud. [[code](https://github.com/Vegeta2020/SE-SSD)][__`Detection`__]
+- [[CVPR oral](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[pytorch](https://github.com/hehefan/P4Transformer)][__`Transformer`__]
 
 ```diff
 - Datasets
