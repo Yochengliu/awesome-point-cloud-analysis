@@ -549,6 +549,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild. [__`Completion`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690630.pdf)] Deep FusionNet for Point Cloud Semantic Segmentation. [[code](https://github.com/feihuzhang/LiDARSeg)][__`Segmentation`__]
 - [[ECCV](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
+- [[ECCV](https://arxiv.org/abs/2007.08556)] InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling. [__`Detection`__]
 -
 - [[arXiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
@@ -767,6 +768,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.08945)] Weakly Supervised Learning of Rigid 3D Scene Flow. [[pytorch](https://github.com/zgojcic/Rigid3DSceneFlow)] [__`Scene Flow.`__]
 - [[arXiv](https://arxiv.org/abs/2102.10788)] Attention Models for Point Clouds in Deep Learning: A Survey. [__`Survey.`__]
 - [[arXiv](https://arxiv.org/abs/2102.13391)] Point Cloud Upsampling and Normal Estimation using Deep Learning for Robust Surface Reconstruction. [__`Upsampling.`____`Reconstruction.`__]
+- [[arXiv](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers. [__`Detection.`__]
 - 
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`Sequences`__]
 - 
