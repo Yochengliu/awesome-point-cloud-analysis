@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 32 paper]
+- [2021](#2021) [CVPR: 33 paper]
 
 <h3> Keywords </h3>
 
@@ -804,6 +804,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2104.13366)] Unsupervised 3D Shape Completion through GAN Inversion. [[pytorch](https://github.com/junzhezhang/shape-inversion)][__`Completion`__]
 - [[CVPR](https://arxiv.org/abs/2104.09804)] SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud. [[code](https://github.com/Vegeta2020/SE-SSD)][__`Detection`__]
 - [[CVPR oral](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[pytorch](https://github.com/hehefan/P4Transformer)][__`Transformer`__]
+- [[CVPR](https://arxiv.org/abs/2105.02158)] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. [__`Compression`__]
 
 ```diff
 - Datasets
