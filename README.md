@@ -455,6 +455,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`cls.`__ __`seg.`__]
 - 
 - [[CVPR](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[code](https://github.com/hehefan/P4Transformer)][__`cls.`__ __`seg.`__]
+- [[CVPR](https://arxiv.org/pdf/2012.00987)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [[code](https://github.com/weiyithu/PV-RAFT)][__`oth.`__]
+- 
+- [[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [[code](https://github.com/weiyithu/FGR)][__`det.`__ __`seg.`__]
 
 <h1> 
 
