@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 34 paper]
+- [2021](#2021) [CVPR: 35 paper]
 
 <h3> Keywords </h3>
 
@@ -806,6 +806,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[pytorch](https://github.com/hehefan/P4Transformer)][__`Transformer`__]
 - [[CVPR](https://arxiv.org/abs/2105.02158)] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. [__`Compression`__]
 - [[CVPR](https://arxiv.org/abs/2105.07751)] HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding. [__`Flow`__]
+- [[CVPR](https://arxiv.org/abs/2105.10203)] Omni-supervised Point Cloud Segmentation via Gradual Receptive Field  Component Reasoning. [[code](https://github.com/azuki-miho/RFCR)][__`Segmentation`__]
 
 ```diff
 - Datasets
