@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 35 paper]
+- [2021](#2021) [CVPR: 60 paper]
 
 <h3> Keywords </h3>
 
@@ -806,7 +806,33 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[pytorch](https://github.com/hehefan/P4Transformer)][__`Transformer`__]
 - [[CVPR](https://arxiv.org/abs/2105.02158)] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. [__`Compression`__]
 - [[CVPR](https://arxiv.org/abs/2105.07751)] HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding. [__`Flow`__]
-- [[CVPR](https://arxiv.org/abs/2105.10203)] Omni-supervised Point Cloud Segmentation via Gradual Receptive Field  Component Reasoning. [[code](https://github.com/azuki-miho/RFCR)][__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Offboard_3D_Object_Detection_From_Point_Cloud_Sequences_CVPR_2021_paper.pdf)] Offboard 3D Object Detection from Point Cloud Sequences. [__`Detection`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_CorrNet3D_Unsupervised_End-to-End_Learning_of_Dense_Correspondence_for_3D_Point_CVPR_2021_paper.pdf)] CorrNet3D: Unsupervised End-to-End Learning of Dense Correspondence for 3D Point Clouds. [[code](https://github.com/ZENGYIMING-EAMON/CorrNet3D)][__`Correspondence`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Self-Point-Flow_Self-Supervised_Scene_Flow_Estimation_From_Point_Clouds_With_Optimal_CVPR_2021_paper.pdf)] Self-Point-Flow: Self-Supervised Scene Flow Estimation From Point Clouds With Optimal Transport and Random Walk. [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_SOE-Net_A_Self-Attention_and_Orientation_Encoding_Network_for_Point_Cloud_CVPR_2021_paper.pdf)] SOE-Net: A Self-Attention and Orientation Encoding Network for Point Cloud Based Place Recognition. [[code](https://github.com/Yan-Xia/SOE-Net)][__`Recognition`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Semantic_Segmentation_for_Real_Point_Cloud_Scenes_via_Bilateral_Augmentation_CVPR_2021_paper.pdf)] Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Equivariant_Point_Network_for_3D_Point_Cloud_Analysis_CVPR_2021_paper.pdf)] Equivariant Point Network for 3D Point Cloud Analysis. [[code](https://github.com/nintendops/EPN_PointCloud)][__`Analysis`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Yi_Complete__Label_A_Domain_Adaptation_Approach_to_Semantic_Segmentation_CVPR_2021_paper.pdf)] Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)] Regularization Strategy for Point Cloud via Rigidly Mixed Sample. [__`Regularization`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Fischer_StickyPillars_Robust_and_Efficient_Feature_Matching_on_Point_Clouds_Using_CVPR_2021_paper.pdf)] StickyPillars: Robust and Efficient Feature Matching on Point Clouds Using Graph Neural Networks. [__`Matching`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Verifiability_and_Predictability_Interpreting_Utilities_of_Network_Architectures_for_Point_CVPR_2021_paper.pdf)] Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing. [__`Processing`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_PU-GCN_Point_Cloud_Upsampling_Using_Graph_Convolutional_Networks_CVPR_2021_paper.pdf)] PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks. [[code](https://github.com/guochengqian/PU-GCN)][__`Upsampling`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_SCF-Net_Learning_Spatial_Contextual_Features_for_Large-Scale_Point_Cloud_Segmentation_CVPR_2021_paper.pdf)] SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)] UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. [__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf)] Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models. [__`Self-Supervised`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.pdf)] Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction From Raw Point Clouds. [__`Self-Similarities`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Learning_Progressive_Point_Embeddings_for_3D_Point_Cloud_Generation_CVPR_2021_paper.pdf)] Learning Progressive Point Embeddings for 3D Point Cloud Generation. [__`Generation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/He_DyCo3D_Robust_Instance_Segmentation_of_3D_Point_Clouds_Through_Dynamic_CVPR_2021_paper.pdf)] DyCo3D: Robust Instance Segmentation of 3D Point Clouds Through Dynamic Convolution. [[code](https://git.io/DyCo3D)][__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_TearingNet_Point_Cloud_Autoencoder_To_Learn_Topology-Friendly_Representations_CVPR_2021_paper.pdf)] TearingNet: Point Cloud Autoencoder To Learn Topology-Friendly Representations. [__`Autoencoder`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PWCLO-Net_Deep_LiDAR_Odometry_in_3D_Point_Clouds_Using_Hierarchical_CVPR_2021_paper.pdf)] PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization. [[code](https://github.com/IRMVLab/PWCLONet)][__`Odometry`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_PV-RAFT_Point-Voxel_Correlation_Fields_for_Scene_Flow_Estimation_of_Point_CVPR_2021_paper.pdf)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_CGA-Net_Category_Guided_Aggregation_for_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf)] CGA-Net: Category Guided Aggregation for Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Point_Cloud_Upsampling_via_Disentangled_Refinement_CVPR_2021_paper.pdf)] Point Cloud Upsampling via Disentangled Refinement. [[code](https://github.com/liruihui/Dis-PU)][__`Upsampling`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths. [[code](https://github.com/diviswen/PMP-Net)][__`Completion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)] View-Guided Point Cloud Completion. [__`Completion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf)] Few-shot 3D Point Cloud Semantic Segmentation. [[code](https://github.com/Na-Z/attMPTI)][__`Segmentation`__]
+
+
 
 ```diff
 - Datasets
