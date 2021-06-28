@@ -831,7 +831,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths. [[code](https://github.com/diviswen/PMP-Net)][__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)] View-Guided Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf)] Few-shot 3D Point Cloud Semantic Segmentation. [[code](https://github.com/Na-Z/attMPTI)][__`Segmentation`__]
-
+-
 - [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
 
 ```diff
