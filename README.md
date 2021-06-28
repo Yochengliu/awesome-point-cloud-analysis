@@ -771,6 +771,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers. [__`Detection.`__]
 - 
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`Sequences`__]
+- [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
 - 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
@@ -831,8 +832,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths. [[code](https://github.com/diviswen/PMP-Net)][__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)] View-Guided Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf)] Few-shot 3D Point Cloud Semantic Segmentation. [[code](https://github.com/Na-Z/attMPTI)][__`Segmentation`__]
--
-- [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
+
 
 ```diff
 - Datasets
