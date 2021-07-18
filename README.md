@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 60 paper]
+- [2021](#2021) [CVPR: 66 paper]
 
 <h3> Keywords </h3>
 
@@ -818,7 +818,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Fischer_StickyPillars_Robust_and_Efficient_Feature_Matching_on_Point_Clouds_Using_CVPR_2021_paper.pdf)] StickyPillars: Robust and Efficient Feature Matching on Point Clouds Using Graph Neural Networks. [__`Matching`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Verifiability_and_Predictability_Interpreting_Utilities_of_Network_Architectures_for_Point_CVPR_2021_paper.pdf)] Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing. [__`Processing`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_PU-GCN_Point_Cloud_Upsampling_Using_Graph_Convolutional_Networks_CVPR_2021_paper.pdf)] PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks. [[code](https://github.com/guochengqian/PU-GCN)][__`Upsampling`__]
-- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_SCF-Net_Learning_Spatial_Contextual_Features_for_Large-Scale_Point_Cloud_Segmentation_CVPR_2021_paper.pdf)] SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_SCF-Net_Learning_Spatial_Contextual_Features_for_Large-Scale_Point_Cloud_Segmentation_CVPR_2021_paper.pdf)] SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation.[[code](https://github.com/leofansq/SCF-Net)] [__`Segmentation`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)] UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. [__`Registration`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf)] Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models. [__`Self-Supervised`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.pdf)] Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction From Raw Point Clouds. [__`Self-Similarities`__]
@@ -832,6 +832,14 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths. [[code](https://github.com/diviswen/PMP-Net)][__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)] View-Guided Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf)] Few-shot 3D Point Cloud Semantic Segmentation. [[code](https://github.com/Na-Z/attMPTI)][__`Segmentation`__]
+- [[CVPR](https://facebookresearch.github.io/WyPR/)] 3D Spatial Recognition without Spatially Labeled 3D. [[code](https://facebookresearch.github.io/WyPR/)][__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2103.10814)] Skeleton Merger: an Unsupervised Aligned Keypoint Detector. [[code](https://github.com/eliphatfs/SkeletonMerger)][__`Skeleton`__]
+- [[CVPR](https://paul007pl.github.io/projects/VRCNet.html)] Variational Relational Point Completion Network. [[code](https://paul007pl.github.io/projects/VRCNet.html)][__`Completion`__]
+- [[CVPR](https://arxiv.org/abs/2103.16671)] DeCo: Denoise and Contrast for Category Agnostic Shape Completion. [[code](https://github.com/antoalli/Deco)][__`Completion`__]
+- [[CVPR](https://arxiv.org/pdf/2008.09527.pdf)] PointNetLK Revisited. [[code](https://github.com/Lilac-Lee/PointNetLK_Revisited)][__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Miao_PVGNet_A_Bottom-Up_One-Stage_3D_Object_Detector_With_Integrated_Multi-Level_CVPR_2021_paper.pdf)] PVGNet: A Bottom-Up One-Stage 3D Object Detector With Integrated Multi-Level Features. [__`Detection`__]
+
+
 
 
 ```diff
