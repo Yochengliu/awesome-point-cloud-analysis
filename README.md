@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 paper]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 2 papers]
 
 <h3> Keywords </h3>
 
@@ -838,7 +838,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2103.16671)] DeCo: Denoise and Contrast for Category Agnostic Shape Completion. [[code](https://github.com/antoalli/Deco)][__`Completion`__]
 - [[CVPR](https://arxiv.org/pdf/2008.09527.pdf)] PointNetLK Revisited. [[code](https://github.com/Lilac-Lee/PointNetLK_Revisited)][__`Registration`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Miao_PVGNet_A_Bottom-Up_One-Stage_3D_Object_Detector_With_Integrated_Multi-Level_CVPR_2021_paper.pdf)] PVGNet: A Bottom-Up One-Stage 3D Object Detector With Integrated Multi-Level Features. [__`Detection`__]
-
+-
+- [[ICCV](https://arxiv.org/abs/2108.04023)] DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation. [__`Segmentation`__]
+- [[ICCV](https://arxiv.org/abs/2108.03746)] Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching. [[code](https://github.com/chenchao15/2D_projection_matching?utm_source=catalyzex.com)][__`Generation`__]
 
 
 
