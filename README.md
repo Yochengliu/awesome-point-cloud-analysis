@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 2 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 7 papers]
 
 <h3> Keywords </h3>
 
@@ -841,6 +841,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 -
 - [[ICCV](https://arxiv.org/abs/2108.04023)] DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation. [__`Segmentation`__]
 - [[ICCV](https://arxiv.org/abs/2108.03746)] Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching. [[code](https://github.com/chenchao15/2D_projection_matching?utm_source=catalyzex.com)][__`Generation`__]
+- [[ICCV](https://arxiv.org/abs/2107.10981)] Score-Based Point Cloud Denoising. [__`Denoising`__]
+- [[ICCV](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. [[code](https://ispc-group.github.io/hregnet?utm_source=catalyzex.com)][__`Registration`__]
+- [[ICCV oral](https://arxiv.org/abs/2108.03257)] (Just) A Spoonful of Refinements Helps the Registration Error Go Down. [__`Registration`__]
+- [[ICCV](https://arxiv.org/abs/2107.11769)] ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[ICCV](https://arxiv.org/abs/2107.14230)] Learning with Noisy Labels for Robust Point Cloud Segmentation. [[code](https://shuquanye.com/PNAL_website/)][__`Segmentation`__]
 
 
 
