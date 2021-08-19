@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 7 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 11 papers]
 
 <h3> Keywords </h3>
 
@@ -846,6 +846,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV oral](https://arxiv.org/abs/2108.03257)] (Just) A Spoonful of Refinements Helps the Registration Error Go Down. [__`Registration`__]
 - [[ICCV](https://arxiv.org/abs/2107.11769)] ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation. [__`Segmentation`__]
 - [[ICCV](https://arxiv.org/abs/2107.14230)] Learning with Noisy Labels for Robust Point Cloud Segmentation. [[code](https://shuquanye.com/PNAL_website/)][__`Segmentation`__]
+- [[ICCV](https://arxiv.org/abs/2108.08035)] Adaptive Graph Convolution for Point Cloud Analysis. [[pytorch](https://github.com/hrzhou2/AdaptConv-master)][__`Analysis`__]
+- [[ICCV](https://arxiv.org/abs/2108.08187)] ME-PCN: Point Completion Conditioned on Mask Emptiness. [__`Completion`__]
+- [[ICCV](https://arxiv.org/abs/2108.07794)] RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection. [__`Detection`__]
+- [[ICCV](https://arxiv.org/abs/2108.07478)] Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks. [[code](https://github.com/Gorilla-Lab-SCUT/SSTNet)][__`Segmentation`__]
+
 
 
 
