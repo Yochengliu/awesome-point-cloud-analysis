@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 11 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 15 papers]
 
 <h3> Keywords </h3>
 
@@ -850,8 +850,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/2108.08187)] ME-PCN: Point Completion Conditioned on Mask Emptiness. [__`Completion`__]
 - [[ICCV](https://arxiv.org/abs/2108.07794)] RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection. [__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2108.07478)] Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks. [[code](https://github.com/Gorilla-Lab-SCUT/SSTNet)][__`Segmentation`__]
-
-
+- [[ICCV](https://arxiv.org/abs/2108.02350)] Hierarchical Aggregation for 3D Instance Segmentation. [[code](https://github.com/hustvl/HAIS)][__`Segmentation`__]
+- [[ICCV](https://arxiv.org/abs/2108.12468)] Learning Inner-Group Relations on Point Clouds. [__`Learning`__]
+- [[ICCV](https://arxiv.org/abs/2108.11682)] A Robust Loss for Point Cloud Registration. [__`Registration`__]
+- [[ICCV](https://arxiv.org/abs/2108.10723)] Improving 3D Object Detection with Channel-wise Transformer. [__`Detection`__]
 
 
 ```diff
