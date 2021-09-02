@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 15 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 16 papers]
 
 <h3> Keywords </h3>
 
@@ -854,6 +854,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/2108.12468)] Learning Inner-Group Relations on Point Clouds. [__`Learning`__]
 - [[ICCV](https://arxiv.org/abs/2108.11682)] A Robust Loss for Point Cloud Registration. [__`Registration`__]
 - [[ICCV](https://arxiv.org/abs/2108.10723)] Improving 3D Object Detection with Channel-wise Transformer. [__`Detection`__]
+- [[ICCV](https://arxiv.org/abs/2109.00179)] patio-temporal Self-Supervised Representation Learning for 3D Point Clouds. [__`Learning`__]
 
 
 ```diff
