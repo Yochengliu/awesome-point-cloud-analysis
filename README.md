@@ -864,7 +864,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/2109.06619)] Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. [__`Registration`__]
 - [[ICCV oral](https://arxiv.org/abs/2109.08141)] An End-to-End Transformer Model for 3D Object Detection. [[code](https://github.com/facebookresearch/3detr)][__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2101.02691)] Self-Supervised Pretraining of 3D Features on any Point-Cloud. [[code](https://github.com/facebookresearch/DepthContrast)][__`Detection`__]
-
+- [[TOG](https://arxiv.org/abs/2011.01630)] PCEDNet : A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds [__`Edge Detection.`__]
 
 
 
