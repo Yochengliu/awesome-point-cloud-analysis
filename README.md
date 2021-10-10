@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 25 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 39 papers]
 
 <h3> Keywords </h3>
 
@@ -772,6 +772,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - 
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`Sequences`__]
 - [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
+-
+- [[TOG](https://arxiv.org/abs/2011.01630)] PCEDNet : A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds [__`Edge Detection.`__]
+-
 - 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
@@ -864,7 +867,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/abs/2109.06619)] Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. [__`Registration`__]
 - [[ICCV oral](https://arxiv.org/abs/2109.08141)] An End-to-End Transformer Model for 3D Object Detection. [[code](https://github.com/facebookresearch/3detr)][__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2101.02691)] Self-Supervised Pretraining of 3D Features on any Point-Cloud. [[code](https://github.com/facebookresearch/DepthContrast)][__`Detection`__]
-- [[TOG](https://arxiv.org/abs/2011.01630)] PCEDNet : A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds [__`Edge Detection.`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SPG_Unsupervised_Domain_Adaptation_for_3D_Object_Detection_via_Semantic_ICCV_2021_paper.pdf)] SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation. [__`Detection`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_VENet_Voting_Enhancement_Network_for_3D_Object_Detection_ICCV_2021_paper.pdf)] VENet: Voting Enhancement Network for 3D Object Detection. [__`Detection`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)] MLVSNet: Multi-Level Voting Siamese Network for 3D Visual Tracking.[[code](https://github.com/CodeWZT/MLVSNet)] [__`Tracking`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)] Exploring Geometry-Aware Contrast and Clustering Harmonization for Self-Supervised 3D Object Detection. [__`Detection`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf)] TempNet: Online Semantic Segmentation on Large-scale Point Cloud Series. [__`Segmentation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf)] Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Guided_Point_Contrastive_Learning_for_Semi-Supervised_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf)] Guided Point Contrastive Learning for Semi-Supervised Point Cloud Semantic Segmentation. [__`Segmentation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)] Unsupervised Point Cloud Pre-training via Occlusion Completion.[[code](https://github.com/hansen7/OcCo)] [__`training`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Superpoint_Network_for_Point_Cloud_Oversegmentation_ICCV_2021_paper.pdf)] Superpoint Network for Point Cloud Oversegmentation.[[code](https://github.com/fpthink/SPNet)] [__`Segmentation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SGMNet_Learning_Rotation-Invariant_Point_Cloud_Representations_via_Sorted_Gram_Matrix_ICCV_2021_paper.pdf)] SGMNet: Learning Rotation-Invariant Point Cloud Representations via Sorted Gram Matrix. [__`Representations`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.pdf)] Point Cloud Augmentation with Weighted Local Transformations.[[code](https://github.com/mlvlab/PointWOLF)] [__`Augmentation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Closer_Look_at_Rotation-Invariant_Deep_Point_Cloud_Analysis_ICCV_2021_paper.pdf)] A Closer Look at Rotation-invariant Deep Point Cloud Analysis. [__`Analysis`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)] 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds. [__`Visual Grounding`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] Pyramid Point Cloud Transformer for Large-Scale Place Recognition.[[code](https://github.com/fpthink/PPT-Net)] [__`Recognition`__]
 
 
 
