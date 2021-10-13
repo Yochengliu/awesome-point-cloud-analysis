@@ -459,6 +459,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2012.00987)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [[code](https://github.com/weiyithu/PV-RAFT)][__`oth.`__]
 - 
 - [[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [[code](https://github.com/weiyithu/FGR)][__`det.`__ __`seg.`__]
+- 
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. [[code](https://github.com/ajhamdi/MVTN)][__`det.`__ __`rel.`__]
 
 <h1> 
 
