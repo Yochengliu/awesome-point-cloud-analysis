@@ -61,6 +61,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[3DV](http://segcloud.stanford.edu/segcloud_2017.pdf)] SEGCloud: Semantic Segmentation of 3D Point Clouds. [[project](http://segcloud.stanford.edu/)] [__`seg.`__ __`aut.`__] :star:
 -
 - [[TPAMI](https://ieeexplore.ieee.org/ielx7/34/8454009/08046026.pdf?tp=&arnumber=8046026&isnumber=8454009&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)] Structure-aware Data Consolidation. [__`oth.`__]
+- [[ICCV](https://ieeexplore.ieee.org/document/8237364)] Local-to-Global Point Cloud Registration Using a Dictionary of Viewpoint Descriptors. [**`reg.`**]
+- [[[ICCV](https://ieeexplore.ieee.org/document/8237553)] Point Set Registration with Global-Local Correspondence and Transformation Estimation. [**`reg.`**]
+- [[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14188)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization. [**`reg.`**]
 
 ---
 ## 2018
@@ -437,7 +440,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/1907.02545.pdf)] Attentive Context Normalization for Robust Permutation-Equivariant Learning. [[code](https://github.com/vcg-uvic/acne)] [__`cls.`__]
 - [[CVPR](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for Shape Reconstruction and Completion. [[code](https://github.com/jchibane/if-net)] [__`oth.`__]
 - [[CVPR](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [__`cls.`__]
--
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.html)] 3DRegNet: A Deep Neural Network for 3D Point Registration. [**`reg.`**]
+- [[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.html)] Global Optimality for Point Set Registration Using Semidefinite Programming. [**`reg.`**]
 - [[WACV](https://arxiv.org/pdf/1912.08487.pdf)] FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data. [__`seg.`__ __`aut.`__]
 -
 - [[arXiv](https://arxiv.org/abs/2001.10692)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes. [__`det.`__]
@@ -446,7 +450,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding. [__`cls.`__ __`seg.`__ __`det.`__]
 - [[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[code](https://github.com/sitzikbs/DeepFit)] [__`oth.`__]
 - [[ECCV](https://arxiv.org/abs/2004.11784v2)] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. [[code](https://github.com/dahliau/DPDist)] [__`oth.`__]
-- 
+- [[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_23)] Iterative Distance-Aware Similarity Matrix Convolution with  Mutual-Supervised Point Elimination for Efficient Point Cloud  Registration. [**`reg.`**]
 - [[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [[code](https://github.com/anshulpaigwar/GndNet)] [__`seg.`__ __`aut.`__]
 - 
 - [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
@@ -461,6 +465,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [[code](https://github.com/weiyithu/FGR)][__`det.`__ __`seg.`__]
 - 
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. [[code](https://github.com/ajhamdi/MVTN)][__`det.`__ __`rel.`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Ali_RPSRNet_End-to-End_Trainable_Rigid_Point_Set_Registration_Network_Using_Barnes-Hut_CVPR_2021_paper.html)] RPSRNet: End-to-End Trainable Rigid Point Set Registration Network Using Barnes-Hut 2D-Tree Representation [**`reg.`**]
+- [[[TPAMI](https://doi.org/10.1109/TPAMI.2020.3043769)] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression. [**`reg.`**]
+- [[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2978477)] Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization. [**`reg.`**]
+- [[[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration. [**`reg.`**]
+- [[[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/c85b2ea9a678e74fdc8bafe5d0707c31-Abstract.html)] CoFiNet: Reliable Coarse-to-fine Correspondences for Robust PointCloud Registration. [**`reg.`**]
+- [[[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/2b0f658cbffd284984fb11d90254081f-Abstract.html)] Accurate Point Cloud Registration with Robust Optimal Transport. [**`reg.`**]
 
 <h1> 
 
