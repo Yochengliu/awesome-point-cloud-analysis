@@ -450,17 +450,18 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [[code](https://github.com/anshulpaigwar/GndNet)] [__`seg.`__ __`aut.`__]
 - 
 - [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
-- [[arXiv](https://arxiv.org/abs/2006.04569)] Parameter-Efficient Person Re-identification in the 3D Space. [[code]](https://github.com/layumi/person-reid-3d)[__`rel.`__] :fire:
+- [[TNNLS](https://arxiv.org/abs/2006.04569)] Parameter-Efficient Person Re-identification in the 3D Space. [[code]](https://github.com/layumi/person-reid-3d)[__`rel.`__] :fire:
 
 ## 2021
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`cls.`__ __`seg.`__]
-- 
 - [[CVPR](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[code](https://github.com/hehefan/P4Transformer)][__`cls.`__ __`seg.`__]
 - [[CVPR](https://arxiv.org/pdf/2012.00987)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [[code](https://github.com/weiyithu/PV-RAFT)][__`oth.`__]
-- 
 - [[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [[code](https://github.com/weiyithu/FGR)][__`det.`__ __`seg.`__]
-- 
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. [[code](https://github.com/ajhamdi/MVTN)][__`det.`__ __`rel.`__]
+
+## 2022
+- [[TMM](https://ieeexplore.ieee.org/document/9891826/)] Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes. [[code](https://github.com/cyysc1998/3D-Pretraining)][__`cls.`__ __`seg.`__]
+
 
 <h1> 
 
